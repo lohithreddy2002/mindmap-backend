@@ -1,0 +1,122 @@
+---
+title: RHD & IE Quick Guide (INICET)
+markmap:
+  colorFreezeLevel: 6
+---
+
+## Rheumatic Heart Disease (RHD)
+
+- Etiology: Strep pyogenes (GAS) Pharyngitis
+- Pathogenesis: Autoimmune, Molecular Mimicry
+  - **Aschoff Bodies** (myocardial granuloma)
+  - **Anitschkow Cells** (Caterpillar cells - activated macrophages)
+- Modified Jones Criteria (Diagnosis)
+  - **Major:** (2 Major OR 1 Major + 2 Minor + Evidence of Strep)
+    - **Carditis** (most serious)
+    - **Polyarthritis** (most common, migratory large joints)
+    - **Sydenham Chorea** (St. Vitus' Dance)
+    - **Erythema Marginatum** (non-itchy, annular rash)
+    - **Subcutaneous Nodules** (firm, painless over bony prominences)
+  - **Minor:**
+    - Fever
+    - Arthralgia
+    - Elevated ESR/CRP
+    - Prolonged PR interval on ECG
+    - Previous RHD history
+  - **Plus:** Evidence of recent Strep infection (ASO titer, Anti-DNase B, positive throat culture)
+- Cardiac Involvement (Order: Mitral > Aortic > Tricuspid > Pulmonic)
+  - Acute: Mitral Regurgitation (most common initial valve lesion)
+  - Chronic: **Mitral Stenosis** (classical "fish-mouth"), Aortic Regurgitation
+- Complications
+  - Heart Failure
+  - Arrhythmias (AFib in MS)
+  - Thromboembolism (in MS)
+  - **Infective Endocarditis** (can superimpose)
+- Prevention
+  - Primary: Treat Strep throat effectively (Penicillin)
+  - Secondary: **Benzathine Penicillin G** IM (every 3-4 weeks) - duration varies based on carditis severity
+- Management:
+  - Anti-inflammatory (Aspirin, Steroids for moderate/severe Carditis)
+  - Symptomatic (Diuretics, Digoxin for HF)
+  - Valve Surgery (for severe regurgitation or stenosis)
+
+## Infective Endocarditis (IE)
+
+- Risk Factors
+  - **Prosthetic Valves** (Highest Risk)
+  - Previous IE history
+  - Valvular Heart Disease (RHD, Bicuspid Aortic Valve, MVP with significant MR)
+  - **IV Drug Use**
+  - Structural Heart Disease (VSD, PDA, complex cyanotic defects)
+  - Indwelling Catheters, Cardiac Devices (PPM, AICD)
+- Microbiology (Key Organisms)
+  - **Native Valves:** **Viridans Streptococci** (most common overall), Staph Aureus
+  - **Acute IE:** **Staph Aureus** (most virulent, often on previously normal valves)
+  - **IV Drug Use IE:** **Staph Aureus** (commonly Tricuspid valve)
+  - **Prosthetic Valve Endocarditis (PVE):**
+    - Early (<1 year post-op): **Coagulase-negative Staph** (**S. epidermidis**), Staph Aureus
+    - Late (>1 year post-op): Viridans Strep, Staph Aureus, Enterococci
+  - **HACEK organisms** (fastidious Gram-negative: Haemophilus, Aggregatibacter, Cardiobacterium, Eikenella, Kingella)
+  - **Culture-Negative IE:** (often due to prior antibiotics) Coxiella burnetii (Q fever), Bartonella spp.
+- Modified Duke Criteria (Diagnosis)
+  - **Major:** (2 Major OR 1 Major + 3 Minor OR 5 Minor)
+    - **Positive Blood Culture** (typical organisms from 2 separate cultures; persistent bacteremia)
+    - **Evidence of Endocardial Involvement** (Echocardiogram: **Vegetation**, Abscess, new partial dehiscence of PVE, new valvular regurgitation)
+  - **Minor:**
+    - Predisposing heart condition or IVDU
+    - Fever (>38°C)
+    - **Vascular Phenomena:** Arterial emboli, Septic pulmonary infarcts, **Mycotic Aneurysm**, Intracranial hemorrhage, **Janeway lesions** (painless, palms/soles)
+    - **Immunologic Phenomena:** Glomerulonephritis, **Osler nodes** (painful, fingers/toes), **Roth spots** (retina, pale center), Rheumatoid factor
+    - Microbiological evidence (positive culture not meeting major criteria)
+- Clinical Features
+  - **Fever** (most common symptom)
+  - New or changing heart murmur
+  - Peripheral Stigmata (often late/less common now): **Janeway lesions**, **Osler nodes**, **Splinter hemorrhages**, **Roth spots**
+  - Systemic/Pulmonary Emboli symptoms
+- Diagnosis
+  - **Blood Cultures:** Crucial (multiple sets, different sites)
+  - **Echocardiography:** **TEE** (**Transesophageal Echo**) generally superior to TTE for detecting vegetations, abscesses
+- Complications (Major Causes of Morbidity/Mortality)
+  - **Heart Failure** (most common cause of death - due to valve damage)
+  - **Embolization** (systemic to brain, spleen, kidneys, limbs; pulmonary in right-sided IE)
+  - Local Spread: **Abscess formation** (valve ring, myocardium), Pseudoaneurysm, Fistula
+  - **Mycotic Aneurysms** (infected arterial aneurysms, often cerebral)
+  - Renal Failure (Glomerulonephritis, septic emboli)
+- Management
+  - **Antibiotics:** Prolonged IV course (4-6 weeks minimum), empiric initially, then guided by culture & sensitivity. High doses, often combinations.
+  - **Surgery:** (Valve repair or replacement) - **Indications for Surgery:**
+    - **Heart Failure** (severe valve dysfunction)
+    - **Uncontrolled Infection** (persistent bacteremia/fever despite antibiotics, local complications like abscess/fistula)
+    - **Prevention of Embolization** (**Large Vegetations** >10-15mm, particularly on mitral/aortic valve, after embolization despite antibiotics)
+    - **Prosthetic Valve Endocarditis** (often requires surgery)
+    - Fungal Endocarditis
+- Prophylaxis (Select High-Risk Patients & Procedures)
+  - **High-Risk Conditions:** Prosthetic valves, Hx of IE, Certain congenital heart disease, Cardiac transplant with valvulopathy
+  - **Procedures:** **Dental** procedures involving gingival tissue/periapical region, Respiratory/Skin procedures on infected tissue.
+
+## INICET Buzzwords
+
+  - RHD: 
+    - **Aschoff**
+    - **Anitschkow**
+    - **Jones Criteria**
+    - **Mitral Stenosis (MS)**
+    - **Sydenham Chorea**
+    - **Erythema Marginatum**
+    - **Benzathine Penicillin Secondary Prophylaxis**
+  - IE: 
+    - **Duke Criteria**
+    - **Vegetation** (on Echo)
+    - **TEE** (Transesophageal Echo)
+    - **Staph Aureus IVDU**
+    - **Viridans Strep Native**
+    - **Prosthetic Valve Endocarditis (PVE)**
+    - **S. epidermidis** (Early PVE)
+    - **HACEK**, **Janeway lesions** (painless emboli)
+    - **Osler nodes** (painful immunologic)
+    - **Roth spots**
+    - **Splinter Hemorrhages**
+    - **Mycotic Aneurysm**
+    - **Heart Failure (most common death cause)**
+    - **Surgical Indications IE**
+    - **Large Vegetation**

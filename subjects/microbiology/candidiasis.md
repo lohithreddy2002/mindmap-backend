@@ -1,0 +1,119 @@
+
+---
+title: Candidiasis Cheat Sheet
+markmap:
+  colorFreezeLevel: 6
+---
+
+## Candidiasis
+- **Definition:** Opportunistic fungal infection caused by *Candida* species
+- **Etiology:** Mostly *Candida albicans*
+  - Other species: *C. glabrata*, *C. tropicalis*, *C. parapsilosis*, *C. krusei* (inherently resistant to Fluconazole), *C. auris* (emerging, MDR)
+- **Predisposing Factors (High Yield)**
+  - Immunosuppression (HIV, Neutropenia, Steroids, Chemo, Transplant)
+  - Diabetes Mellitus
+  - Broad-spectrum Antibiotics
+  - Indwelling Catheters (Central venous, Urinary)
+  - Surgery (Abdominal)
+  - Burns
+  - Neonates / Low birth weight
+  - Pregnancy
+  - Malnutrition
+- **Clinical Manifestations**
+  - **Mucocutaneous**
+    - **Oral (Oropharyngeal Candidiasis / Thrush)**
+      - Pseudomembranous (White plaques, scrape off)
+      - Erythematous (Red, flat)
+      - Angular Cheilitis
+      - Atrophic (Denture Stomatitis)
+      - Hyperplastic (Leukoplakia-like, hard to scrape)
+      - **Buzzwords:** Pseudomembranous, Erythematous, Angular Cheilitis, Thrush
+    - **Esophageal**
+      - Odynophagia, Dysphagia, Substernal pain
+      - Seen in HIV/AIDS (AIDS-defining illness)
+      - **Buzzwords:** Odynophagia, Dysphagia
+    - **Vulvovaginal**
+      - Pruritus, Burning, Dysuria, Curd-like discharge
+      - **Buzzwords:** Curd-like discharge, Pruritus
+    - **Cutaneous**
+      - Intertrigo (Skin folds: axillae, groin, inframammary) - erythematous rash, satellite lesions
+      - Diaper Candidiasis
+      - Paronychia, Onychomycosis
+      - Chronic Mucocutaneous Candidiasis (CMCC) - Genetic defects (AIRE, STAT1, IL-17 pathway), persistent/recurrent infections
+      - **Buzzwords:** Intertrigo, Satellite lesions, CMCC
+  - **Invasive**
+    - **Candidemia:** *Candida* in bloodstream
+      - Fever, Chills (often refractory to antibiotics)
+      - High mortality
+    - **Disseminated Candidiasis:** Spread to organs (liver, spleen, kidney, brain, heart, eye)
+    - **Specific Organ Involvement:**
+      - Endophthalmitis (Vision loss, eye pain - *always* check eyes in candidemia)
+      - Endocarditis (IV drug users, prosthetic valves)
+      - CNS (Meningitis, Abscesses - rare)
+      - Urinary Tract Infection (UTI) - Catheter-associated
+      - Osteomyelitis, Arthritis
+      - **Buzzwords:** Candidemia, Disseminated, Endophthalmitis, Endocarditis, Catheter
+- **Diagnosis**
+  - **Microscopy:** KOH wet mount (scrapings, discharge) - budding yeast, pseudohyphae, true hyphae (*C. albicans* only true hyphae in tissue)
+  - **Culture:** Sabouraud Dextrose Agar (SDA) - identifies species, susceptibility testing
+  - **Germ Tube Test:** *C. albicans* forms germ tubes in serum at 37°C (distinguishes *C. albicans* from most other species)
+  - **Histopathology:** PAS or GMS stains - shows yeast and pseudohyphae in tissue
+  - **Blood Tests (Invasive):**
+    - Blood Culture (Gold standard, but low sensitivity)
+    - Beta-D-glucan (Non-specific cell wall marker, high sensitivity)
+    - PCR (Emerging, species-specific)
+  - **Imaging:** Depends on site (CT, MRI for CNS, US for organs, Echo for endocarditis)
+  - **Buzzwords:** KOH, Budding Yeast, Pseudohyphae, Germ Tube Test, Sabouraud Agar, Beta-D-glucan, Blood Culture
+- **Treatment**
+  - **General Principles:** Treat underlying risk factors; Antifungals
+  - **Antifungal Classes:**
+    - **Azoles:**
+      - Fluconazole (Good for *C. albicans*, UTI, step-down; less active vs *C. glabrata*, resistant *C. krusei*)
+      - Voriconazole (Good for *Aspergillus*, also *Candida*; CYP interactions, visual side effects)
+      - Posaconazole, Isavuconazole (Prophylaxis, refractory disease)
+      - Topical Azoles (Clotrimazole, Miconazole) - for local mucocutaneous
+      - **Mechanism:** Inhibits CYP450-dependent ergosterol synthesis
+      - **Buzzwords:** Fluconazole, Voriconazole, CYP inhibitors
+    - **Polyenes:**
+      - Amphotericin B (Broad spectrum, including *Candida*)
+        - Deoxycholate (Conventional - more toxic)
+        - Lipid Formulations (Less nephrotoxic)
+      - Nystatin (Topical/Oral suspension - for local mucocutaneous)
+      - **Mechanism:** Binds ergosterol, forms pores
+      - **Buzzwords:** Amphotericin B, Nephrotoxicity, Nystatin
+    - **Echinocandins:**
+      - Caspofungin, Micafungin, Anidulafungin
+      - **First-line for invasive candidiasis** (especially in critically ill/neutropenic)
+      - Active against most *Candida* species (except *C. parapsilosis* higher MICs, *C. auris* variable)
+      - Well-tolerated
+      - **Mechanism:** Inhibits β-(1,3)-glucan synthesis (cell wall)
+      - **Buzzwords:** Echinocandins, Caspofungin, Micafungin, Anidulafungin, Beta-glucan synthesis inhibitor, First-line invasive
+    - **Other:** Flucytosine (Used in combination with Ampho B for CNS/Endocarditis)
+  - **Specific Treatment Scenarios:**
+    - Oral/Esophageal: Fluconazole PO/IV (or Topical Nystatin/Clotrimazole for oral only)
+    - Vaginal: Topical Azoles or single dose Fluconazole PO
+    - Cutaneous: Topical Azoles/Nystatin
+    - Candidemia/Invasive: Echinocandin IV (initial); step-down to Fluconazole if stable, *C. albicans*/susceptible *C. parapsilosis*, and non-neutropenic. Amphotericin B is alternative.
+    - CMCC: Long-term Azoles
+- **INICET Buzzwords Checklist:**
+  - Pseudohyphae
+  - Budding Yeast
+  - Germ Tube Test (*C. albicans*)
+  - Sabouraud Agar
+  - Oral Thrush
+  - Esophageal Candidiasis (Odynophagia)
+  - Vulvovaginal (Curd-like discharge)
+  - Intertrigo (Satellite lesions)
+  - Candidemia
+  - Endophthalmitis (Need fundoscopy)
+  - Indwelling Catheter
+  - Neutropenia
+  - Fluconazole (Azole)
+  - Amphotericin B (Nephrotoxicity)
+  - Echinocandins (Caspofungin, Micafungin, Anidulafungin) - First line invasive
+  - Beta-(1,3)-glucan inhibitor (Echinocandins mech)
+  - Beta-D-glucan (Diagnostic marker)
+  - *Candida glabrata* (Azole resistance)
+  - *Candida krusei* (Intrinsic Fluconazole resistance)
+  - CMCC (AIRE, STAT1, IL-17)
+

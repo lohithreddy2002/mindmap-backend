@@ -1,0 +1,142 @@
+---
+title: Lymphoma - INICET Cheat Sheet
+markmap:
+  colorFreezeLevel: 6
+---
+
+## Lymphoma
+
+-   **Classification (WHO)**
+    -   **Hodgkin Lymphoma (HL)**
+        -   Classical HL
+            -   Nodular Sclerosis (Most common)
+            -   Mixed Cellularity
+            -   Lymphocyte Rich
+            -   Lymphocyte Depleted (Least common)
+            -   Reed-Sternberg cells (CD15+, CD30+, CD45-)
+        -   Nodular Lymphocyte Predominant HL (NLPHL)
+            -   Popcorn cells (L&H cells)
+            -   CD20+, CD45+, BCL6+ (CD15-, CD30-)
+    -   **Non-Hodgkin Lymphoma (NHL)**
+        -   **B-cell NHL**
+            -   Diffuse Large B-cell Lymphoma (DLBCL)
+                -   Most common aggressive NHL
+                -   CD20+, CD19+, CD22+
+                -   Treat with R-CHOP
+            -   Follicular Lymphoma (FL)
+                -   Most common indolent NHL
+                -   t(14;18) IGH-BCL2
+                -   CD10+, CD20+, BCL2+
+                -   Treat with R-CVP / R-CHOP / Rituximab
+                -   Transformation to DLBCL
+            -   Chronic Lymphocytic Leukemia / Small Lymphocytic Lymphoma (CLL/SLL)
+                -   Same disease, different presentation
+                -   CD5+, CD23+, CD20 (dim)
+                -   Smudge cells
+            -   Mantle Cell Lymphoma (MCL)
+                -   Aggressive despite indolent morphology
+                -   t(11;14) CCND1-IGH
+                -   Cyclin D1+
+                -   CD5+, CD20+, CD23-
+            -   Marginal Zone Lymphoma (MZL)
+                -   Extranodal MZL (MALT lymphoma) - H. pylori (Stomach)
+                -   Nodal MZL
+                -   Splenic MZL
+                -   CD20+, CD21+, CD35+
+            -   Burkitt Lymphoma
+                -   Very aggressive
+                -   t(8;14) MYC-IGH (most common)
+                -   CD10+, CD20+, BCL6+, CD5-, CD23-
+                -   High Ki-67 (>95%)
+                -   Starry Sky pattern (Tingible body macrophages)
+                -   Endemic (EBV), Sporadic, Immunodeficiency-associated (HIV)
+            -   Lymphoplasmacytic Lymphoma (Waldenstrom Macroglobulinemia)
+                -   IgM paraprotein
+                -   MYD88 mutation
+            -   Primary Mediastinal Large B-cell Lymphoma
+                -   Females, Bulky mediastinal mass
+        -   **T-cell and NK-cell NHL**
+            -   Peripheral T-cell Lymphoma, NOS (PTCL-NOS)
+            -   Anaplastic Large Cell Lymphoma (ALCL)
+                -   ALK+ (better prognosis) vs ALK-
+                -   CD30+ (hallmark), ALK (cytoplasmic/nuclear)
+            -   Angioimmunoblastic T-cell Lymphoma (AITL)
+            -   Adult T-cell Leukemia/Lymphoma (ATLL)
+                -   HTLV-1 associated
+                -   Skin lesions, Hypercalcemia
+            -   Extranodal NK/T-cell Lymphoma, Nasal Type
+                -   EBV associated
+                -   Midline destructive lesions
+            -   Cutaneous T-cell Lymphoma (CTCL)
+                -   Mycosis Fungoides (MF)
+                    -   Epidermotropism
+                    -   Pautrier microabscesses
+                -   Sezary Syndrome
+                    -   Erythroderma, Lymphadenopathy, Circulating Sezary cells (cerebriform nuclei)
+
+-   **Diagnosis**
+    -   Clinical Presentation (Lymphadenopathy, B symptoms: fever, night sweats, weight loss)
+    -   Biopsy (Excisional preferred for architecture)
+    -   Histopathology & Immunohistochemistry (IHC) - Key for classification
+    -   Flow Cytometry (Blood, BM, Effusions)
+    -   Cytogenetics & FISH (Translocations, Mutations)
+    -   Molecular Studies (IGH/TCR rearrangement, Gene mutations)
+    -   Imaging (CT, PET-CT for staging and response assessment)
+    -   Bone Marrow Biopsy
+
+-   **Staging**
+    -   Ann Arbor Staging System
+        -   Stage I: Single lymph node region or single extralymphatic site (Ie)
+        -   Stage II: Two or more lymph node regions on same side of diaphragm, or one region plus extralymphatic site on same side (IIe)
+        -   Stage III: Lymph node regions on both sides of diaphragm, +/- spleen involvement (IIIs), +/- extralymphatic site (IIIe)
+        -   Stage IV: Diffuse or disseminated extralymphatic involvement, or involvement of skeletal muscle, bone, BM, CNS
+        -   Suffix A: No B symptoms
+        -   Suffix B: B symptoms present (Fever >38°C, Night sweats, Weight loss >10% in 6 months)
+        -   Suffix E: Extralymphatic involvement
+        -   Suffix S: Splenic involvement
+
+-   **Treatment Principles**
+    -   Chemotherapy (CHOP, CVP, ABVD, BEACOPP, Hyper-CVAD)
+    -   Immunotherapy (Rituximab - CD20, Brentuximab Vedotin - CD30, Nivolumab/Pembrolizumab - PD-1)
+    -   Radiation Therapy (RT)
+    -   High-Dose Chemotherapy + Stem Cell Transplant (Auto/Allo)
+    -   Targeted Therapies (BTK inhibitors - Ibrutinib, Idelalisib)
+    -   CAR T-cell therapy (DLBCL, ALL, MCL)
+
+-   **Prognosis**
+    -   International Prognostic Index (IPI) for aggressive NHL (DLBCL)
+        -   Age >60
+        -   Stage III/IV
+        -   Elevated LDH
+        -   ECOG PS ≥2
+        -   ≥2 extranodal sites
+    -   Follicular Lymphoma International Prognostic Index (FLIPI)
+    -   Hasenclever Index for HL
+
+-   **Associated Conditions / Buzzwords**
+    -   Reed-Sternberg cells (HL)
+    -   Popcorn cells (NLPHL)
+    -   CD15, CD30 (Classical HL)
+    -   CD20, CD45 (NLPHL)
+    -   Rituximab (Anti-CD20)
+    -   Cyclin D1 (MCL)
+    -   t(14;18) BCL2 (FL)
+    -   t(11;14) Cyclin D1 (MCL)
+    -   t(8;14) MYC (Burkitt)
+    -   Starry Sky (Burkitt)
+    -   ABVD (HL - Doxorubicin, Bleomycin, Vinblastine, Dacarbazine)
+    -   BEACOPP (HL - Bleomycin, Etoposide, Doxorubicin, Cyclophosphamide, Vincristine, Procarbazine, Prednisone)
+    -   R-CHOP (DLBCL - Rituximab, Cyclophosphamide, Doxorubicin, Vincristine, Prednisone)
+    -   Ann Arbor Staging
+    -   B Symptoms
+    -   IPI, FLIPI
+    -   MALT Lymphoma (H. pylori)
+    -   Mycosis Fungoides (CTCL, Epidermotropism, Pautrier)
+    -   Sezary Syndrome (CTCL, Sezary cells)
+    -   EBV (HL, Burkitt, PTLD, NK/T)
+    -   HIV (Increased risk of certain NHL subtypes)
+    -   HTLV-1 (ATLL)
+    -   ALK+ ALCL (CD30)
+    -   Post-transplant Lymphoproliferative Disorder (PTLD) - EBV related
+
+

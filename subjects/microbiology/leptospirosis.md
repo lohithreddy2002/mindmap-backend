@@ -1,0 +1,99 @@
+---
+title: Leptospirosis - INICET Cheatsheet
+markmap:
+  colorFreezeLevel: 6
+---
+
+## Leptospirosis
+
+-   ### Etiology & Microbiology
+    -   *Leptospira interrogans* (Pathogenic species)
+    -   Spirochete bacteria
+    -   Motile, aerobic
+    -   Characteristic hook or shepherd's crook shape
+    -   Numerous serovars (e.g., Icterohaemorrhagiae, Canicola, Hardjo)
+-   ### Epidemiology & Transmission
+    -   **Reservoir:** Rodents (especially rats) primary, other mammals (dogs, cattle, pigs)
+    -   **Source:** Urine of infected animals
+    -   **Transmission:**
+        -   Contact with contaminated water, soil, vegetation
+        -   Contact with animal urine/tissues
+        -   Entry via breaks in skin, mucous membranes (eyes, nose, mouth)
+    -   **Risk Factors:**
+        -   Occupational (Farmers, vets, sewer workers, miners, slaughterhouse workers)
+        -   Recreational (Swimming, wading in fresh water)
+        -   Environmental (Flooding, heavy rainfall areas)
+        -   Tropical & Subtropical regions
+-   ### Clinical Features
+    -   **Incubation Period:** 5-14 days (range 2-30)
+    -   **Phases:**
+        -   **Anicteric Leptospirosis (Mild/Majority)**
+            -   Sudden onset (Leptospiremic phase)
+            -   Fever, chills, headache
+            -   Severe myalgia (especially calf muscles)
+            -   Conjunctival suffusion (key feature)
+            -   Nausea, vomiting, diarrhea
+            -   Meningeal symptoms (aseptic meningitis)
+            -   Symptoms resolve in 3-7 days
+            -   Immune phase (occurs after resolution of leptospiremia, antibodies appear)
+              -   Recurrence of fever, headache
+              -   Aseptic Meningitis is common in this phase
+        -   **Icteric Leptospirosis (Weil's Disease) (Severe/5-10%)**
+            -   More severe form, continuous course or biphasic
+            -   **Triad:** Jaundice, Acute Kidney Injury (AKI), Hemorrhage
+            -   Severe Jaundice (Hepatic dysfunction - elevated bilirubin, mild transaminitis)
+            -   AKI (Acute Tubular Necrosis) - commonest cause of death in Weil's
+            -   Hemorrhagic manifestations (Pulmonary hemorrhage, GI bleed, petechiae, epistaxis) - **Severe Pulmonary Hemorrhage Syndrome** (SPHS) is a rapidly fatal complication
+            -   Myocarditis, Arrhythmias
+            -   Rhabdomyolysis
+            -   Aseptic Meningitis
+            -   Uveitis (Late complication, Weil's sign/Syndrome)
+-   ### Diagnosis
+    -   Clinical suspicion based on symptoms & exposure history
+    -   **Laboratory Tests:**
+        -   **Microscopy:** Dark field microscopy (Low sensitivity, not recommended)
+        -   **Culture:** Blood, CSF (first 7-10 days), Urine (after 7-10 days, can persist weeks/months). Requires special media (Fletcher's, EMJH). Slow growth.
+        -   **PCR:** Blood, CSF, Urine (Sensitive & specific, especially early in illness before antibodies) - preferred method in acute phase.
+        -   **Serology:**
+            -   **Microscopic Agglutination Test (MAT):** Gold standard. Paired sera (acute & convalescent, 4-fold rise in titer) OR single titer ≥1:400 (suggestive in endemic area). Seroconversion typically occurs 1-2 weeks after onset. Serovar specific.
+            -   **ELISA:** IgM ELISA (Common screening test, detects antibodies earlier than MAT, around 5-7 days after symptom onset). IgG ELISA for past infection.
+        -   **Non-specific findings:** Elevated ESR, CRP, Leukocytosis (can be normal/low), Thrombocytopenia, Elevated liver enzymes, Hyperbilirubinemia, Elevated CK, Pyuria, Proteinuria, Hematuria, Abnormal CXR (Pulmonary infiltrates/hemorrhage).
+-   ### Treatment
+    -   **Antibiotics:** Most effective when started early (within 5-7 days)
+        -   **Mild Disease:**
+            -   Doxycycline (Oral)
+            -   Amoxicillin or Azithromycin (Pregnancy, Children)
+        -   **Severe Disease:**
+            -   Penicillin G (IV) - Drug of choice
+            -   Ceftriaxone (IV)
+            -   Cefotaxime (IV)
+            -   IV Doxycycline (Alternative for severe)
+        -   Jarisch-Herxheimer reaction can occur after first dose.
+    -   **Supportive Care:** Essential, especially in Weil's disease
+        -   Fluid & electrolyte management
+        -   Dialysis (for AKI)
+        -   Respiratory support (ventilation for SPHS)
+        -   Blood transfusions (for hemorrhage)
+-   ### Prevention
+    -   Avoid swimming/wading in potentially contaminated water
+    -   Protective clothing/footwear for occupational exposure
+    -   Rodent control
+    -   Vaccination of animals (dogs, livestock)
+    -   Human prophylaxis (Doxycycline) for high-risk, short-term exposures (e.g., military personnel, travelers)
+-   ### INICET Buzzwords
+    -   Rat urine contact
+    -   Contaminated water (flooding, recreational)
+    -   Occupational exposure (farmer, sewer worker)
+    -   Fever, headache, severe **calf myalgia**
+    -   **Conjunctival suffusion**
+    -   Biphasic illness
+    -   **Weil's Disease:** Jaundice, AKI, Hemorrhage
+    -   **Severe Pulmonary Hemorrhage Syndrome (SPHS)**
+    -   Aseptic Meningitis
+    -   Uveitis (Late)
+    -   **MAT** (Microscopic Agglutination Test) - Gold Standard, 4-fold rise
+    -   IgM ELISA (Early diagnosis)
+    -   PCR (Early diagnosis)
+    -   Penicillin / Ceftriaxone (Severe)
+    -   Doxycycline (Mild, Prophylaxis)
+

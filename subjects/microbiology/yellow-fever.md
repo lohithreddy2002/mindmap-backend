@@ -1,0 +1,80 @@
+---
+title: Yellow Fever - INICET High Yield
+markmap:
+  colorFreezeLevel: 6
+---
+
+## Yellow Fever
+
+- **Epidemiology**
+  - Virus: Flavivirus
+  - Serotype: Single
+  - Endemic: Africa, South America
+- **Transmission**
+  - Vector:
+    - Aedes aegypti (Urban)
+    - Haemagogus/Sabethes (Sylvatic/Jungle)
+  - Cycles:
+    - Sylvatic/Jungle
+    - Intermediate/Savannah
+    - Urban
+- **Clinical Presentation**
+  - Incubation Period: 3-6 days
+  - Phases:
+    - Infection (Acute): Fever, Chills, Headache, Myalgia, Nausea/Vomiting
+    - Remission: Brief improvement (24-48h)
+    - Intoxication (Toxic):
+      - Return of fever
+      - **Jaundice**
+      - **Hemorrhagic Manifestations**: Epistaxis, Hematemesis (Black Vomit), Melena, Bleeding Gums
+      - Hepatic Failure
+      - Renal Dysfunction (**Albuminuria**)
+      - Shock
+      - **Faget's Sign** (Relative Bradycardia)
+      - High Fatality Rate (Severe form)
+- **Diagnosis**
+  - Clinical Suspicion
+  - Lab:
+    - Early: RT-PCR, Virus Isolation
+    - Later: Serology (IgM, IgG)
+    - Histopathology (Liver): **Councilman Bodies**
+- **Treatment**
+  - Supportive Care ONLY
+  - Hydration
+  - Pain/Fever control
+  - Management of bleeding/organ dysfunction
+- **Prevention**
+  - Mosquito Control
+  - **Vaccination**
+- **Vaccine**
+  - Type: **Live Attenuated** (17D strain)
+  - Administration: Single dose
+  - Immunity: **Lifelong** (WHO)
+  - Requirements: International Certificate of Vaccination (IHR)
+  - Contraindications:
+    - Infants <6-9 months
+    - Immunocompromised
+    - Symptomatic HIV
+    - Thymic disorders (thymoma, thymectomy)
+    - Severe allergy to egg protein
+    - Pregnancy (relative)
+  - Adverse Effects:
+    - Anaphylaxis
+    - **Viscerotropic Disease** (YEL-AVD)
+    - **Neurotropic Disease** (YEL-AND)
+- **INICET Buzzwords**
+  - Flavivirus
+  - Aedes aegypti
+  - Sylvatic Cycle
+  - Faget's Sign
+  - Jaundice
+  - Hemorrhagic Fever
+  - Albuminuria
+  - Black Vomit
+  - Councilman Bodies
+  - 17D Vaccine
+  - Live Attenuated
+  - Lifelong Immunity
+  - Viscerotropic Disease (YEL-AVD)
+  - Neurotropic Disease (YEL-AND)
+  - International Health Regulations (IHR)

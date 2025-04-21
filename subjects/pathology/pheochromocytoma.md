@@ -1,0 +1,94 @@
+
+---
+markmap:
+  colorFreezeLevel: 6
+---
+
+## Pheochromocytoma (INICET High Yield)
+
+-   **Definition**
+    -   Catecholamine-secreting tumor
+    -   Arise from chromaffin cells
+    -   Usually adrenal medulla
+-   **Epidemiology / Rule of 10s (Less strict now)**
+    -   10% Extra-adrenal (Paraganglioma)
+    -   10% Bilateral (Higher in familial)
+    -   10% Malignant (Higher in extra-adrenal/SDH)
+    -   10% Pediatric
+    -   10% Recur
+    -   **Familial > 10% (Now 30-40%)**
+-   **Associations (Very High Yield)**
+    -   **MEN 2A/2B** (REarranged during Transfection - RET proto-oncogene)
+        -   Medullary Thyroid Ca + Pheo + Hyperparathyroidism (2A)
+        -   Medullary Thyroid Ca + Pheo + Marfanoid habitus, Mucosal neuromas (2B)
+    -   **Von Hippel-Lindau (VHL)**
+        -   VHL gene
+        -   Renal Cell Carcinoma, Hemangioblastoma (CNS/Retina), Pancreatic cysts/tumors, Epididymal cystadenoma
+        -   Often bilateral pheos
+    -   **Neurofibromatosis Type 1 (NF1)**
+        -   NF1 gene (Neurofibromin)
+        -   Cafe-au-lait spots, Neurofibromas, Optic glioma, Lisch nodules
+    -   **Succinate Dehydrogenase Mutations (SDHA, SDHB, SDHC, SDHD)**
+        -   **SDHB - Highest risk of malignancy & extra-adrenal**
+        -   Often extra-adrenal (paraganglioma)
+-   **Clinical Features (High Yield)**
+    -   Classic Triad (Paroxysmal or sustained)
+        -   **Headache**
+        -   **Palpitations**
+        -   **Sweating**
+    -   Hypertension (most common presentation)
+    -   Anxiety/Sense of doom
+    -   Tremor
+    -   Pallor
+    -   Weight loss
+    -   Orthostatic hypotension (due to volume contraction)
+    -   Hyperglycemia (catecholamines inhibit insulin)
+    -   Dilated cardiomyopathy
+-   **Diagnosis (High Yield)**
+    -   **Biochemical Confirmation (First step)**
+        -   **Plasma free metanephrines** (Most sensitive)
+        -   **24-hour urine fractionated metanephrines and catecholamines** (Most specific, esp. for VMA)
+    -   **Localization Imaging (After biochemical diagnosis)**
+        -   **CT / MRI** (Adrenals, abdomen, pelvis)
+        -   **Functional Imaging** (For extra-adrenal, metastatic, or screening in syndromes)
+            -   **I-123 MIBG scan** (MIBG uptake in adrenergic tissue) - Less sensitive for SDHx related
+            -   **18F-FDG PET** (For aggressive/malignant, less differentiated)
+            -   **68Ga-DOTATATE PET/CT** (High sensitivity for SDH related and metastatic disease) - Somatostatin receptor imaging
+-   **Management (Extremely High Yield)**
+    -   **Pre-operative Preparation (Essential!)**
+        -   **Alpha Blockade FIRST** (Prevent hypertensive crisis during surgery)
+            -   **Phenoxybenzamine** (Irreversible non-selective alpha blocker, preferred 10-14 days)
+            -   Prazosin, Terazosin, Doxazosin (Selective alpha-1 blockers, shorter duration)
+        -   **Beta Blockade SECOND** (Only AFTER adequate alpha blockade, typically 2-3 days before surgery)
+            -   Propranolol, Atenolol, Metoprolol
+            -   **NEVER start beta blocker first** (Unopposed alpha vasoconstriction -> severe hypertension/crisis)
+        -   Volume expansion (Oral salt intake, IV fluids) - Counteract alpha blockade related hypotension
+    -   **Surgical Resection**
+        -   **Laparoscopic adrenalectomy** (Standard for benign adrenal pheo)
+        -   Open surgery for large, suspected malignant, or complex extra-adrenal
+    -   **Intra-operative Management**
+        -   Managing hypertensive crisis (Phentolamine, Sodium Nitroprusside)
+        -   Managing hypotension (Noradrenaline, Fluids)
+    -   **Post-operative Management**
+        -   Monitor blood pressure (May be hypotensive or persistent hypertension)
+        -   Follow-up biochemistry (Confirm complete resection, monitor for recurrence)
+-   **Malignancy**
+    -   Diagnosed by presence of metastases (lymph nodes, bone, liver, lung)
+    -   No definitive histological criteria for malignancy in primary tumor
+    -   Higher risk with large tumors, extra-adrenal site, SDHB mutations
+-   **INICET Buzzwords**
+    -   Rule of 10s (Familial > 10%)
+    -   MEN 2A/2B (RET)
+    -   VHL
+    -   NF1
+    -   SDHB (Malignancy)
+    -   Headache, Palpitations, Sweating Triad
+    -   Plasma free metanephrines
+    -   24hr urine metanephrines
+    -   MIBG scan
+    -   DOTATATE PET
+    -   Alpha block FIRST (Phenoxybenzamine)
+    -   Beta block SECOND
+    -   Phentolamine (Hypertensive crisis)
+    -   Laparoscopic adrenalectomy
+    -   Unopposed Alpha

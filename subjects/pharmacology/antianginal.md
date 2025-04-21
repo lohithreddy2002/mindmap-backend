@@ -1,0 +1,128 @@
+---
+title: Antianginal Drugs (INICET High Yield)
+markmap:
+  colorFreezeLevel: 6
+---
+
+## Antianginal Drugs
+- ### Nitrates
+  - **MOA:** Release NO -> activate Guanylyl Cyclase -> increase cGMP -> smooth muscle relaxation
+  - **Effects:**
+    - Vasodilation (Veins > Arteries)
+    - ↓ Preload & Afterload
+    - ↓ Myocardial O2 Demand
+    - Dilate Coronary Arteries (esp. epicardial, collateral flow)
+  - **Uses:**
+    - **Acute Angina:** Sublingual Nitroglycerin (GTN)
+    - **Prophylaxis:** Oral, Patch (Isosorbide Dinitrate/Mononitrate)
+    - Vasospastic Angina
+  - **Adverse Effects:**
+    - Headache (most common)
+    - Flushing
+    - Dizziness
+    - Reflex Tachycardia (esp. with short-acting)
+    - Hypotension
+  - **Tolerance:** Nitrate-free interval required for chronic use
+  - **Contraindications:**
+    - Sildenafil/PDE5 inhibitors (within 24-48 hrs)
+    - Hypotension
+    - Obstructive Hypertrophic Cardiomyopathy (HOCM)
+  - **Key Drugs:**
+    - Nitroglycerin (GTN)
+    - Isosorbide Dinitrate (ISDN)
+    - Isosorbide Mononitrate (ISMN)
+- ### Beta Blockers
+  - **MOA:** Block Beta-1 receptors in heart
+  - **Effects:**
+    - ↓ Heart Rate (HR)
+    - ↓ Contractility
+    - ↓ Blood Pressure (BP)
+    - ↓ Myocardial O2 Demand
+    - Prolong Diastole (↑ Perfusion time)
+  - **Uses:**
+    - **Stable Angina (First-line prophylaxis)**
+    - Post-MI Angina
+    - Often combined with Nitrates
+  - **Adverse Effects:**
+    - Bradycardia
+    - Fatigue
+    - Bronchospasm (Non-selective)
+    - Cold Extremities
+    - Erectile Dysfunction
+    - Masking Hypoglycemia symptoms
+  - **Contraindications:**
+    - Severe Bradycardia/Heart Block (2nd/3rd degree)
+    - Decompensated Heart Failure (Acute)
+    - Severe Asthma/COPD
+    - Prinzmetal Angina (may worsen)
+  - **Key Drugs:**
+    - Metoprolol
+    - Atenolol
+    - Bisoprolol
+    - Propranolol (Non-selective)
+    - Nebivolol (NO effects)
+- ### Calcium Channel Blockers (CCBs)
+  - **MOA:** Block L-type Calcium Channels
+  - **Types & Effects:**
+    - **Dihydropyridines (e.g., Amlodipine, Nifedipine):**
+      - Primarily Vascular Smooth Muscle
+      - Vasodilation (Arteries > Veins)
+      - ↓ Afterload
+      - Can cause Reflex Tachycardia
+    - **Non-Dihydropyridines (e.g., Verapamil, Diltiazem):**
+      - Heart & Vascular Smooth Muscle
+      - ↓ HR & Contractility
+      - ↓ BP
+      - ↓ Myocardial O2 Demand
+  - **Uses:**
+    - **Vasospastic Angina (Prinzmetal) - First line**
+    - Stable Angina (esp. if Beta-blockers contraindicated/insufficient)
+    - Hypertension
+  - **Adverse Effects:**
+    - **DHP:** Peripheral Edema, Headache, Flushing, Reflex Tachycardia
+    - **Non-DHP:** Bradycardia, Constipation (Verapamil), AV Block
+  - **Contraindications:**
+    - Severe LV Dysfunction/Heart Failure (Non-DHP)
+    - Severe Bradycardia/Heart Block (Non-DHP)
+    - Hypotension
+  - **Key Drugs:**
+    - Verapamil
+    - Diltiazem
+    - Amlodipine
+    - Nifedipine
+    - Nicardipine
+- ### Newer Agents
+  - **Ivabradine:**
+    - **MOA:** Selective If channel inhibitor in SA node
+    - **Effects:** ↓ HR ONLY (no effect on contractility/BP)
+    - **Uses:** Stable Angina (esp. if Beta-blocker intol/CI, HR > 70), HF with reduced EF
+    - **AE:** Luminous phenomena (phosphenes), Bradycardia, AFib
+  - **Ranolazine:**
+    - **MOA:** Inhibits late sodium current (INa)
+    - **Effects:** Improves diastolic function, ↓ O2 demand (indirectly)
+    - **Uses:** Chronic Stable Angina (add-on therapy)
+    - **AE:** QT prolongation, Dizziness, Constipation
+  - **Nicorandil:**
+    - **MOA:** K+ channel opener + Nitrate effect (activates Guanylyl Cyclase)
+    - **Effects:** Arteriolar & Venous dilation
+    - **Uses:** Stable Angina
+    - **AE:** Headache, Flushing, GI Ulcers (mouth, anal, stomal)
+  - **Trimetazidine:**
+    - **MOA:** Inhibits fatty acid oxidation (shifts metabolism to glucose)
+    - **Effects:** Improves O2 utilization
+    - **Uses:** Adjunct therapy for Stable Angina
+    - **AE:** Dizziness, Parkinsonian symptoms
+- ### INICET Buzzwords
+  - Nitrate-free interval
+  - Reflex Tachycardia (Nitrates, DHP-CCBs)
+  - Prinzmetal Angina (CCBs, Nitrates)
+  - Sildenafil Interaction
+  - Beta-blocker contraindications (Asthma, Heart Block)
+  - Peripheral Edema (DHP-CCBs)
+  - Verapamil Constipation
+  - Ivabradine Phosphenes
+  - Ranolazine QT Prolongation
+  - Nicorandil Ulcers
+  - Late Sodium Current
+
+

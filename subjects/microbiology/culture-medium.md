@@ -1,0 +1,113 @@
+
+---
+markmap:
+  colorFreezeLevel: 6
+---
+
+## Culture Medium (INICET High Yield)
+
+-   **Basic Components**
+    -   Water
+    -   Nutrients
+        -   Carbon Source (Glucose, Lactose)
+        -   Nitrogen Source (Peptone, Amino Acids)
+        -   Minerals (Salts)
+    -   Growth Factors (Vitamins, NAD, Hemin)
+    -   Solidifying Agent (Agar)
+    -   Buffers (Maintain pH)
+-   **Classification**
+    -   **Consistency**
+        -   Liquid (Broth)
+        -   Solid (Agar plate/slope)
+        -   Semi-solid
+    -   **Composition**
+        -   Chemically Defined (Synthetic)
+        -   Complex (Empirical)
+    -   **Purpose**
+        -   Basal (Nutrient Agar/Broth)
+        -   Enrichment (e.g., Selenite F broth for Salmonella)
+        -   Enriched (e.g., Blood Agar, Chocolate Agar)
+        -   Selective (Inhibit unwanted growth)
+            -   MacConkey (Gram -ve)
+            -   LJ (Mycobacteria - Malachite Green)
+            -   TCBS (Vibrio - high pH, high salt, bile salts)
+            -   SDA (Fungi - low pH)
+        -   Differential (Show differences between organisms)
+            -   MacConkey (Lactose Fermentation)
+            -   Blood Agar (Hemolysis)
+            -   CLED (Lactose Fermentation, no electrolyte - prevents swarming)
+            -   KIA/TSI (Sugar fermentation, H2S, Gas)
+        -   Transport (Maintain viability)
+            -   Stuart's
+            -   Amies
+            -   Cary-Blair (Stool pathogens)
+        -   Storage
+        -   Anaerobic
+-   **High Yield Specific Media & Uses**
+    -   Blood Agar (Sheep blood)
+        -   Hemolysis: Alpha (partial), Beta (complete), Gamma (none)
+        -   Fastidious organisms
+    -   Chocolate Agar (Heated blood)
+        -   Releases X (Hemin) & V (NAD) factors
+        -   Haemophilus, Neisseria
+    -   MacConkey Agar
+        -   Selective for Gram -ve (Bile salts, Crystal Violet)
+        -   Differential for Lactose Fermentation (Neutral Red indicator)
+            -   Pink: Lactose Fermenters (E. coli, Klebsiella)
+            -   Pale/Colorless: Non-Lactose Fermenters (Salmonella, Shigella)
+    -   Lowenstein-Jensen (LJ) Medium
+        -   For Mycobacteria
+        -   Selective: Malachite Green inhibits other bacteria
+        -   Contains Egg/Asparagine
+    -   Sabouraud's Dextrose Agar (SDA)
+        -   For Fungi
+        -   Low pH (~5.6), high sugar
+        -   Antibiotics often added
+    -   TCBS (Thiosulfate Citrate Bile Salts Sucrose Agar)
+        -   Selective for Vibrio
+        -   pH 8.6
+        -   V. cholerae: Yellow colonies (Sucrose fermenter)
+        -   V. parahaemolyticus: Green colonies
+    -   Deoxycholate Citrate Agar (DCA)
+        -   Selective for Salmonella & Shigella
+        -   Inhibits coliforms
+    -   CLED Medium (Cystine-Lactose-Electrolyte Deficient)
+        -   Urine cultures
+        -   Prevents swarming of Proteus (Electrolyte deficient)
+        -   Differentiates Lactose fermenters
+    -   Thioglycollate Broth
+        -   For Anaerobes
+        -   Redox indicator (Resazurin)
+    -   Kligler's Iron Agar (KIA) / Triple Sugar Iron Agar (TSI)
+        -   Differentiation of Enterobacteriaceae
+        -   Sugar fermentation (Glucose, Lactose/Sucrose - TSI)
+        -   H2S production (Black precipitate)
+        -   Gas production
+    -   Loeffler's Serum Slope
+        -   C. diphtheriae (Shows granules)
+    -   Tellurite Media (Mueller-Hinton Tellurite, Hoyle's)
+        -   Selective for C. diphtheriae (Black colonies)
+    -   Skirrow's Medium / Campy-BAP
+        -   For Campylobacter
+        -   Microaerophilic incubation
+    -   Buffered Charcoal Yeast Extract (BCYE) Agar
+        -   For Legionella (Requires L-Cysteine)
+-   **INICET Buzzwords**
+    -   X factor (Hemin)
+    -   V factor (NAD)
+    -   Lactose Fermentation
+    -   Bile Salts
+    -   Crystal Violet
+    -   Malachite Green
+    -   Neutral Red
+    -   Phenol Red
+    -   Swarming (Proteus)
+    -   Hemolysis (Alpha, Beta, Gamma)
+    -   Fastidious Organisms
+    -   Anaerobic Jar
+    -   Candle Jar (CO2)
+    -   Microaerophilic
+    -   H2S production
+    -   Mycobactin (M. paratuberculosis)
+    -   L-Cysteine (Legionella)
+

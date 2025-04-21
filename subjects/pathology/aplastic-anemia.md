@@ -1,0 +1,78 @@
+---
+title: Aplastic Anemia (INICET Cheat Sheet)
+markmap:
+  colorFreezeLevel: 6
+---
+
+## Aplastic Anemia
+- **Definition**: Pancytopenia with Hypocellular Bone Marrow
+- **Etiology** <!-- markmap: fold -->
+  - **Idiopathic** (Most Common, Immune-mediated)
+  - **Secondary**
+    - Drugs: Chloramphenicol, Sulfonamides, NSAIDs (Phenylbutazone), Gold Salts, Anticonvulsants (Phenytoin), Chemo
+    - Toxins: Benzene, Pesticides, Radiation
+    - Viruses: Hepatitis (Non A-E most common post-hepatitic AA), EBV, HIV, Parvovirus B19 (Transient Aplastic Crisis)
+    - Immunologic: PNH (often coexist or evolve)
+    - Inherited Syndromes: Fanconi Anemia (Most common inherited AA), Dyskeratosis Congenita, Shwachman-Diamond, Severe Congenital Neutropenia
+- **Pathophysiology** <!-- markmap: fold -->
+  - **Immune-mediated**: T-cell destruction of Hematopoietic Stem Cells (HSCs)
+  - Defective HSCs
+- **Clinical Features** <!-- markmap: fold -->
+  - Symptoms of Pancytopenia
+    - Anemia: Fatigue, Pallor, Dyspnea
+    - Thrombocytopenia: Bleeding (Petechiae, Purpura, Mucosal)
+    - Neutropenia: Infections (Bacterial, Fungal), Fever
+- **Diagnosis** <!-- markmap: fold -->
+  - **CBC**: Pancytopenia (Hb, Platelets, ANC Low)
+  - **Peripheral Smear**: Normocytic/Macrocytic RBCs, low Reticulocytes
+  - **Bone Marrow Biopsy**: **Key Diagnostic Test**
+    - **Hypocellularity** (<25% cellularity or <50% with marked fat increase & <30% residual cells)
+    - **Increased Fat Spaces**
+    - **Absence of significant blasts** (<5%)
+    - **Absence of significant dysplasia**
+    - Rule out other causes (MDS, PNH, Leukemia, B12/Folate deficiency)
+- **Severity Classification** (Based on Untreated Counts) <!-- markmap: fold -->
+  - **Severe Aplastic Anemia (SAA)**: At least 2 of 3 AND BM Cellularity < 25% (or < 50% with < 30% HSC):
+    - ANC < 500/µL
+    - Platelets < 20,000/µL
+    - Reticulocytes < 20,000/µL (<1%)
+  - **Very Severe Aplastic Anemia (VSAA)**: SAA criteria PLUS ANC < 200/µL
+  - **Non-Severe Aplastic Anemia (NSAA)**: Does not meet SAA criteria
+- **Complications** <!-- markmap: fold -->
+  - Infections (Leading cause of death)
+  - Bleeding
+  - **PNH** (Clonal evolution)
+  - **MDS/AML** (Transformation risk, especially with IST)
+- **Management** <!-- markmap: fold -->
+  - **Supportive Care**:
+    - Blood Transfusions (Minimize alloimmunization, filter)
+    - Platelet Transfusions (Thresholds for active bleeding/procedures)
+    - G-CSF (For severe infections, not routine)
+    - Infection Prophylaxis/Treatment
+  - **Specific Treatment (for SAA/VSAA)**:
+    - **Hematopoietic Stem Cell Transplant (HSCT)**:
+      - **Treatment of Choice** for young patients (<40-50) with Matched Sibling Donor (MSD)
+      - Higher success, lower relapse/clonal evolution than IST
+    - **Immunosuppressive Therapy (IST)**:
+      - For patients without MSD, older patients
+      - **Standard**: **ATG (Anti-thymocyte globulin) + Cyclosporine**
+      - **Eltrombopag**: Thrombopoietin receptor agonist, improves counts across all lineages, used with IST or refractory AA.
+    - **NSAA**: Observation or Cyclosporine if symptomatic
+- **Prognosis**: Varies with severity & treatment. Better with HSCT in young patients.
+- **INICET Buzzwords** <!-- markmap: fold -->
+  - Pancytopenia
+  - Hypocellular Bone Marrow
+  - Idiopathic Aplastic Anemia
+  - Chloramphenicol
+  - Benzene
+  - Post-hepatitic AA
+  - Parvovirus B19 (Transient Aplastic Crisis)
+  - Fanconi Anemia
+  - Dyskeratosis Congenita
+  - T-cell mediated
+  - ATG + Cyclosporine
+  - HSCT (Matched Sibling Donor)
+  - SAA / VSAA
+  - Eltrombopag
+  - PNH (Clonal Evolution)
+  - Increased Fat (BM)

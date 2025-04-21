@@ -1,0 +1,93 @@
+
+---
+markmap:
+  colorFreezeLevel: 6
+---
+
+## Drug Prescription (INICET High-Yield)
+- ## Essentials of Prescription
+  - Parts of Rx
+    - Superscription (Rx symbol)
+    - Inscription (Drug name, strength)
+    - Subscription (Dispensing instructions)
+    - Signatura (Patient instructions - SIG)
+  - Patient Details
+    - Name, Age, Sex, Address
+  - Prescriber Details
+    - Name, Signature, Registration No.
+  - Date
+  - Legibility & Clarity
+  - Units & Abbreviations (Standard units, avoid ambiguous ones)
+- ## Principles of Prescribing
+  - Rational Prescribing
+    - Based on diagnosis
+    - Choose effective, safe, affordable drug
+    - Choose P-drug
+  - P-drugs (Personal drugs)
+  - Dose Calculation
+    - Adults (Standard)
+    - Pediatrics (Age, Weight, BSA formulas)
+    - Geriatrics (Start low, go slow)
+    - Renal/Hepatic impairment
+  - Route & Frequency
+  - Duration of therapy
+  - Stepwise approach
+- ## Special Populations & Scenarios
+  - Pregnancy & Lactation
+    - Teratogenicity Categories (A, B, C, D, X - FDA/AU TGA)
+    - Risk vs Benefit
+  - Pediatrics
+    - Dose calculation formulas (Clark's, Young's, BSA)
+    - Formulations (Liquids, Suspensions)
+  - Geriatrics
+    - Polypharmacy
+    - Altered PK/PD
+    - Beers Criteria (Potentially Inappropriate Medications)
+  - Renal Impairment
+    - Dose adjustment (GFR)
+  - Hepatic Impairment
+    - Dose adjustment (Child-Pugh)
+  - Polypharmacy
+    - Drug-Drug Interactions
+    - ADRs
+    - Adherence issues
+- ## Safety & Errors
+  - Common Errors
+    - Wrong drug, dose, route, frequency, patient
+    - Illegibility
+    - Incomplete prescription
+  - High-Alert Medications
+    - Insulin, Opioids, Anticoagulants, Chemotherapy, KCl
+  - Drug Interactions
+    - Pharmacokinetic (Absorption, Distribution, Metabolism, Excretion)
+    - Pharmacodynamic (Additive, Synergistic, Antagonistic)
+  - Adverse Drug Reactions (ADRs)
+  - Medication Reconciliation
+- ## Legal & Ethical Aspects
+  - Controlled Substances (Narcotic & Psychotropic Drugs Act)
+    - Specific prescription format
+    - Duplicates, record keeping
+  - Generic vs Brand Name prescribing
+  - Confidentiality & Patient consent (Implied)
+- ## Monitoring
+  - Therapeutic Drug Monitoring (TDM)
+    - Drugs requiring TDM (e.g., Digoxin, Lithium, Phenytoin, Aminoglycosides, Cyclosporine, Tacrolimus)
+    - Clinical Monitoring (Efficacy, Safety)
+- ## INICET Buzzwords
+  - P-drug
+  - Rational Prescribing
+  - Polypharmacy
+  - Teratogenicity (Categories A, B, C, D, X)
+  - Clark's Rule
+  - Young's Rule
+  - BSA (Body Surface Area)
+  - High-Alert Medication
+  - Medication Reconciliation
+  - TDM (Therapeutic Drug Monitoring)
+  - ADR (Adverse Drug Reaction)
+  - Superscription
+  - Inscription
+  - Subscription
+  - Signatura (SIG)
+  - Beers Criteria
+  - Schedule H, H1, X, G (Drug Classification in India)

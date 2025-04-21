@@ -1,0 +1,86 @@
+
+---
+title: Anti-TB Drugs Cheat Sheet
+markmap:
+  colorFreezeLevel: 6
+---
+
+## Anti-TB Drugs (INICET High-Yield)
+
+- ### Classification & Key Drugs
+  - **First-Line** (RIPE + S)
+    - **Rifampicin (R)**
+      - MoA: Inhibits DNA-dependent RNA Polymerase
+      - SE: Hepatitis, Orange secretions, Enzyme Inducer, Flu-like syndrome, Thrombocytopenia
+    - **Isoniazid (H)**
+      - MoA: Inhibits Mycolic Acid Synthesis (KatG activation)
+      - SE: Peripheral Neuropathy (Give Pyridoxine B6), Hepatitis, Drug Interactions (CYP Inhibitor)
+    - **Pyrazinamide (Z)**
+      - MoA: Active in acidic pH (Lysosomal), disrupts cell membrane/energy metabolism
+      - SE: Hyperuricemia (Gouty Arthritis), Hepatitis, Photosensitivity
+    - **Ethambutol (E)**
+      - MoA: Inhibits Arabinosyl Transferase
+      - SE: Optic Neuritis (Red-green color blindness), Peripheral Neuropathy
+    - **Streptomycin (S)** - (Injectable, less used for DS-TB now)
+      - MoA: 30S Ribosomal subunit
+      - SE: Ototoxicity (Vestibular > Auditory), Nephrotoxicity, Teratogenic
+  - **Second-Line Oral**
+    - Fluoroquinolones (Moxi, Levo)
+      - MoA: DNA Gyrase/Topoisomerase IV
+      - SE: QT prolongation, Tendon rupture, CNS effects
+    - Ethionamide/Prothionamide
+      - SE: GI upset, Neuropsychiatric, Hypothyroidism
+    - Cycloserine
+      - SE: Neuropsychiatric (Psychosis, Seizures) - **Buzzword: C-S-C (Cycloserine-Serine-CNS)**
+    - p-Aminosalicylic Acid (PAS)
+      - SE: GI upset, Hypothyroidism, Drug interactions (INH absorption)
+    - Linezolid
+      - MoA: Inhibits 50S Ribosomal subunit
+      - SE: Myelosuppression (Thrombocytopenia), Peripheral & Optic Neuropathy, Lactic Acidosis
+    - Clofazimine
+      - SE: Skin discoloration (Pink/Brownish), GI upset, QT prolongation
+  - **Second-Line Injectable (Older)** - Less used due to toxicity/resistance
+    - Amikacin, Kanamycin, Capreomycin (Ototoxicity, Nephrotoxicity)
+  - **Newer Drugs (Key for MDR/XDR)**
+    - **Bedaquiline (Bdq)**
+      - MoA: Inhibits ATP Synthase
+      - SE: QT Prolongation, Hepatotoxicity - **Buzzword: Bedaquiline-QT**
+    - **Delamanid (Dlm)**
+      - MoA: Inhibits Mycolic Acid Synthesis
+      - SE: QT Prolongation, Peripheral Neuropathy
+    - **Pretomanid (Pa)**
+      - Used in combinations (BPaL/BPaLM)
+      - SE: Peripheral Neuropathy, Myelosuppression, Hepatotoxicity
+- ### Key Side Effects Summary (RIPE Mnemonic + others)
+  - **R** - **R**ifampicin: **R**ed/Orange, Hepatitis, Enzyme induce**R**
+  - **I** - **I**soniazid: Neuropathy (requires B6), Hepatitis
+  - **P** - **P**yrazinamide: Hyperuricemia (Gout), Hepatitis
+  - **E** - **E**thambutol: **E**ye (Optic neuritis - **E** count is 4 letters like 4th drug in RIPE)
+  - **S** - **S**treptomycin: **S**ixth cranial nerve (Ototoxicity), Kidney
+  - Fluoroquinolones: QT, Tendons
+  - Cycloserine: CNS
+  - Linezolid: Myelosuppression, Neuropathy
+  - Bedaquiline/Delamanid: QT Prolongation
+- ### Drug Resistance
+  - RIF Resistance: rpoB gene mutation
+  - INH Resistance: katG, inhA mutations
+  - MDR-TB: Resistant to INH + RIF
+  - XDR-TB: MDR-TB + resistance to Fluoroquinolone + ≥1 injectable (older)
+  - Pre-XDR: MDR-TB + resistance to FQ *OR* injectable (older)
+- ### Regimens (Simplified)
+  - DS-TB: 6 months (Intensive: 2HRZE; Continuation: 4HR)
+  - MDR-TB: Longer regimens, often including Newer Drugs, Linezolid, Clofazimine, FQ. Shorter regimens are now preferred.
+  - **Buzzword Regimen:** **BPaL** (Bedaquiline, Pretomanid, Linezolid) - for specific DR-TB; **BPaLM** adds Moxifloxacin.
+- ### INICET Buzzwords
+  - **DOTS** (Directly Observed Treatment, Short-course)
+  - **IPT** (Isoniazid Preventive Therapy)
+  - **TPT** (TB Preventive Treatment - broader term)
+  - **Latent TB Infection (LTBI)** vs Active TB Disease
+  - **GeneXpert** (Rapid diagnosis & RIF resistance detection)
+  - **LPA** (Line Probe Assay - Rapid DST)
+  - **DST** (Drug Susceptibility Testing)
+  - **Universal DST**
+  - **Categorization** (Old system: Cat I, II, IV) - less used now with U-DST
+  - **Paradoxical Reaction** (IRIS - Immune Reconstitution Inflammatory Syndrome in HIV)
+  - **Management of Side Effects** (e.g., B6 for INH neuropathy)
+  - **Drug-Induced Hepatitis** (Stop all drugs, reintroduce sequentially)

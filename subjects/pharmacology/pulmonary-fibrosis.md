@@ -1,0 +1,107 @@
+
+---
+title: Pulmonary Fibrosis
+markmap:
+  colorFreezeLevel: 6
+---
+
+## Pulmonary Fibrosis
+- Definition
+- Etiology
+  - Idiopathic Pulmonary Fibrosis (IPF)
+    - Most common
+    - Progressive, chronic
+    - Specific form of chronic fibrosing interstitial pneumonia
+  - Secondary Causes
+    - Connective Tissue Diseases (CTD-ILD)
+      - Scleroderma
+      - Rheumatoid Arthritis
+      - Myositis
+    - Occupational Exposures
+      - Asbestosis
+      - Silicosis
+      - Coal Worker's Pneumoconiosis
+    - Drug-Induced
+      - Amiodarone
+      - Methotrexate
+      - Nitrofurantoin
+      - Bleomycin
+    - Hypersensitivity Pneumonitis (Chronic)
+    - Sarcoidosis
+- Pathophysiology
+  - Alveolar epithelial injury
+  - Aberrant repair process
+  - Fibroblast proliferation
+  - Excessive collagen deposition
+- Clinical Features
+  - Symptoms
+    - Progressive dyspnea on exertion
+    - Dry, hacking cough
+    - Fatigue
+  - Signs
+    - Bibasal inspiratory crackles ("Velcro" crackles)
+    - Clubbing
+    - Cyanosis (late)
+- Diagnosis
+  - History & Physical Exam
+  - Imaging (HRCT Chest)
+    - Key role in diagnosis, especially IPF
+    - UIP Pattern (Usual Interstitial Pneumonia)
+      - Basal and subpleural predominance
+      - Reticular opacities
+      - Honeycombing (essential for definite UIP pattern on HRCT)
+      - Traction bronchiectasis/bronchiolectasis
+      - Absence of features against UIP (e.g., ground glass, cysts, nodules)
+    - Other patterns (NSIP, HP, etc.)
+  - Pulmonary Function Tests (PFTs)
+    - Restrictive Pattern
+      - Reduced FVC
+      - Reduced TLC
+      - Normal or increased FEV1/FVC ratio
+    - Reduced DLCO (Diffusion Capacity of Lung for Carbon Monoxide)
+  - Serology
+    - Rule out CTD-ILD
+  - Bronchoscopy/BAL
+    - Rule out infection, HP, malignancy
+    - Limited role in IPF diagnosis
+  - Surgical Lung Biopsy
+    - Considered when HRCT pattern is equivocal or inconsistent
+    - Histological UIP pattern: Spatiotemporal heterogeneity, fibroblast foci, honeycombing
+  - Multidisciplinary Discussion (MDD)
+    - Essential for diagnosis, especially IPF
+- Management
+  - General
+    - Smoking cessation
+    - Pulmonary rehabilitation
+    - Oxygen therapy
+    - Vaccinations
+  - Pharmacological (for IPF)
+    - Antifibrotic Agents
+      - Pirfenidone
+      - Nintedanib
+      - Slow decline in FVC
+      - Do not reverse fibrosis
+    - No role for corticosteroids or immunosuppressants in IPF
+  - Lung Transplantation
+    - Option for eligible patients
+- Prognosis
+  - Variable depending on cause
+  - IPF has poor prognosis (median survival 3-5 years without transplant)
+- Complications
+  - Pulmonary Hypertension
+  - Acute Exacerbations
+  - Respiratory Failure
+  - Lung Cancer
+
+## INICET Buzzwords
+- UIP
+- Honeycombing
+- Traction Bronchiectasis
+- Velcro Crackles
+- DLCO
+- Restrictive Pattern
+- Pirfenidone
+- Nintedanib
+- MDD
+- Basal-Subpleural
+- Fibroblast Foci

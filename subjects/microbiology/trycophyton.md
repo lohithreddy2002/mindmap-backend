@@ -1,0 +1,74 @@
+---
+title: Trichophyton
+markmap:
+  colorFreezeLevel: 6
+---
+
+## Trichophyton
+- ### General
+  - Dermatophyte Fungus
+  - Keratinolytic
+- ### Key Species
+  - T. rubrum
+    - Most Common
+    - Anthropophilic
+    - Red reverse on SDA
+  - T. tonsurans
+    - Common cause of Tinea Capitis (Endothrix)
+    - Anthropophilic
+  - T. mentagrophytes
+    - Zoophilic (often inflammatory)
+    - Hair Perforation Test +ve
+    - Urease Test +ve
+  - T. verrucosum
+    - Zoophilic (Cattle)
+    - Inflammatory
+  - T. schoenleinii
+    - Cause of Favus
+    - Scutula formation
+    - Wood's Lamp +ve fluorescence
+- ### Clinical Presentations (Tinea)
+  - Tinea Capitis (Scalp)
+    - Black Dot (Endothrix - T. tonsurans)
+    - Gray Patch (Ectothrix - Microsporum)
+    - Favus (Scutula - T. schoenleinii)
+  - Tinea Corporis (Body)
+  - Tinea Cruris (Groin)
+  - Tinea Pedis (Athlete's Foot)
+    - Interdigital
+    - Moccasin pattern (often T. rubrum)
+  - Tinea Unguium (Onychomycosis)
+  - Tinea Barbae (Beard)
+- ### Diagnosis
+  - KOH Mount
+    - Septate Hyphae
+    - Arthrospores (Endothrix/Ectothrix)
+  - Culture (SDA)
+    - Colonial Morphology (Color, texture)
+    - Microscopic Morphology (LPCB stain)
+      - Microconidia (numerous, tear/round shape)
+      - Macroconidia (Rare, thin-walled, pencil/cigar shape)
+  - Special Tests
+    - Hair Perforation Test (T. mentagrophytes)
+    - Urease Test (T. mentagrophytes, T. verrucosum)
+  - Wood's Lamp
+    - Usually Negative
+    - Positive for T. schoenleinii (Favus)
+- ### Treatment
+  - Topical Antifungals (Azoles, Allylamines)
+  - Oral Antifungals (Terbinafine, Itraconazole, Griseofulvin)
+    - For Tinea Capitis, Unguium, extensive/recalcitrant infections
+- ### INICET Buzzwords
+  - Endothrix
+  - Black Dot Tinea Capitis (T. tonsurans)
+  - Favus (T. schoenleinii)
+  - Scutula
+  - Tinea Pedis (Moccasin)
+  - Onychomycosis
+  - T. rubrum (Red reverse)
+  - T. mentagrophytes (Hair Perf +ve)
+  - Microconidia vs Macroconidia
+  - KOH Mount
+  - SDA
+
+

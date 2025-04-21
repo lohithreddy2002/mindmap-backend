@@ -1,0 +1,121 @@
+
+---
+markmap:
+  colorFreezeLevel: 6
+---
+
+## Cell Injury & Adaptation
+
+- **Cell Injury**
+  - **Causes**
+    - Hypoxia / Ischemia
+    - Chemical Agents / Toxins
+    - Physical Agents (Trauma, Temp, Radiation, Shock)
+    - Infectious Agents
+    - Immunological Reactions
+    - Genetic Defects
+    - Nutritional Imbalances
+  - **Mechanisms**
+    - ATP Depletion
+    - Mitochondrial Damage
+      - ROS Generation
+      - Ca++ Accumulation
+    - Influx of Intracellular Calcium
+      - Activation of enzymes (Phospholipases, Proteases, Endonucleases, ATPases)
+    - Oxidative Stress (ROS)
+      - Free Radicals (Superoxide, H2O2, Hydroxyl)
+      - Lipid Peroxidation
+      - Protein Oxidation
+      - DNA Damage
+    - Defects in Membrane Permeability
+      - Plasma Membrane
+      - Mitochondrial Membrane
+      - Lysosomal Membrane
+    - Damage to DNA & Proteins
+      - Protein Misfolding (ER Stress)
+      - Accumulation of Damaged Proteins (Ubiquitin-proteasome system)
+  - **Types & Morphology**
+    - **Reversible Injury**
+      - **Hydropic Swelling** (Cellular Swelling, Vacuolar Degeneration)
+        - Na+/K+ Pump failure
+        - Cytoplasmic blebbing
+        - ER dilation
+      - **Fatty Change** (Steatosis)
+        - Triglyceride accumulation
+        - Liver, Heart, Kidney
+    - **Irreversible Injury**
+      - **Necrosis** (Pathological Cell Death)
+        - Nuclear Changes (Pyknosis -> Karyorrhexis -> Karyolysis)
+        - Increased Eosinophilia
+        - Membrane breakdown
+        - Inflammation
+        - **Patterns of Necrosis**
+          - **Coagulative** (Ischemia in solid organs, except brain; Ghost architecture)
+          - **Liquefactive** (Bacterial infection, Brain infarction; Pus)
+          - **Gangrenous** (Limb ischemia, can be wet or dry)
+          - **Caseous** (TB; "Cheese-like", Granuloma)
+          - **Fat** (Pancreatitis, Trauma; Saponification)
+          - **Fibrinoid** (Immune reactions, Vessel walls; Pink amorphous)
+      - **Apoptosis** (Programmed Cell Death)
+        - Cell shrinkage
+        - Chromatin condensation (Peripheral clumping)
+        - Formation of Apoptotic Bodies
+        - Phagocytosis by macrophages (No inflammation)
+        - **Pathways**
+          - Intrinsic (Mitochondrial) - Bcl-2 family, Cytochrome c release, Apaf-1, Caspase 9
+          - Extrinsic (Death Receptor) - FasL/Fas, TNF/TNFR1, FADD, Caspase 8/10
+        - **Executioner Caspases** (Caspase 3, 6, 7)
+        - p53 (Induces apoptosis)
+        - Role in Development, Homeostasis, Removal of damaged cells
+
+- **Cellular Adaptation**
+  - **Definition:** Reversible functional & structural responses to physiological/pathological stimuli
+  - **Hypertrophy**
+    - Increase in cell SIZE
+    - Increased production of cellular proteins
+    - Physiological (Muscle work, Pregnancy uterus)
+    - Pathological (HTN -> LVH, Aortic stenosis)
+  - **Hyperplasia**
+    - Increase in cell NUMBER
+    - Increased cell proliferation
+    - Physiological (Hormonal - Breast; Compensatory - Liver regeneration)
+    - Pathological (Endometrial, Prostatic, Viral warts)
+  - **Atrophy**
+    - Decrease in cell SIZE and NUMBER
+    - Decreased synthesis, Increased degradation (Ubiquitin-proteasome, Autophagy)
+    - Physiological (Notochord)
+    - Pathological (Disuse, Denervation, Ischemia, Malnutrition, Loss of endocrine stimulation, Pressure)
+  - **Metaplasia**
+    - Reversible change from one mature cell type to another mature cell type
+    - Adaptive response to stress
+    - Reprogramming of stem cells
+    - E.g., Squamous metaplasia (Respiratory tract in smokers, Vitamin A deficiency)
+    - E.g., Columnar metaplasia (Barrett's esophagus - Squamous to Columnar)
+  - **Dysplasia**
+    - Disordered growth
+    - Loss of uniformity, Architectural disarray
+    - Often epithelial
+    - Potentially pre-neoplastic
+
+- **INICET Buzzwords**
+  - Ischemia-Reperfusion Injury
+  - Free Radicals / ROS
+  - Caspases
+  - p53
+  - Cytochrome c
+  - Ubiquitin-Proteasome System
+  - Heat Shock Proteins (Chaperones)
+  - Bcl-2 / Bax / Bak
+  - Fas / FasL
+  - Hydropic Swelling
+  - Fatty Change / Steatosis
+  - Pyknosis / Karyorrhexis / Karyolysis
+  - Coagulative Necrosis (Ghost cell)
+  - Liquefactive Necrosis (Brain)
+  - Caseous Necrosis (TB)
+  - Fibrinoid Necrosis (Vessels)
+  - Apoptotic Bodies
+  - Hypertrophy (LVH)
+  - Hyperplasia (Endometrial)
+  - Metaplasia (Squamous, Barrett's)
+  - Dysplasia

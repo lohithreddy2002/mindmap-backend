@@ -1,0 +1,122 @@
+
+---
+title: Hemolytic Anemia
+markmap:
+  colorFreezeLevel: 6
+---
+
+## Hemolytic Anemia
+- **Definition:** Shortened RBC lifespan (<100 days)
+- **Classification**
+  - **Intrinsic (Intracorpuscular)**
+    - **Membrane Defects**
+      - Hereditary Spherocytosis (HS)
+        - Spectrin/Ankyrin defects
+        - Spherocytes on smear
+        - Osmotic Fragility Test
+        - **Buzzword:** Splenectomy benefit (Howell-Jolly bodies post-splenectomy)
+      - Hereditary Elliptocytosis (HE)
+    - **Enzyme Defects**
+      - G6PD Deficiency
+        - X-linked recessive
+        - Oxidative stress triggers (Drugs: Primaquine, Sulfas, Dapsone; Infections; Fava beans)
+        - **Buzzwords:** Heinz bodies, Bite cells
+        - G6PD Assay (after crisis)
+      - Pyruvate Kinase (PK) Deficiency
+        - Autosomal recessive
+        - Chronic non-spherocytic HA
+    - **Hemoglobinopathies**
+      - Sickle Cell Disease (SCD)
+        - HbS
+        - Vaso-occlusive crises
+        - Splenic sequestration, Autosplenectomy
+        - **Buzzwords:** Sickle cells, Hb Electrophoresis
+      - Thalassemias (Severe forms)
+        - Reduced globin chain synthesis
+        - Microcytic, hypochromic
+        - **Buzzwords:** Target cells, Hb Electrophoresis/HPLC
+  - **Extrinsic (Extracorpuscular)**
+    - **Immune**
+      - Autoimmune Hemolytic Anemia (AIHA)
+        - **Buzzwords:** DAT (Direct Antiglobulin Test), Coombs Test
+        - Warm AIHA (IgG, Extravascular, Spherocytes, Steroids, Splenectomy)
+        - Cold AIHA (IgM, Intravascular, Agglutinins, Acrocyanosis, Rituximab)
+      - Alloimmune (Transfusion reaction, HDFN)
+      - Drug-induced immune HA
+      - Paroxysmal Nocturnal Hemoglobinuria (PNH)
+        - Acquired PIGA gene mutation
+        - Defective GPI anchor (CD55, CD59 deficiency)
+        - Complement-mediated lysis
+        - **Buzzwords:** Flow Cytometry (CD55/CD59), Thrombosis risk, Aplastic Anemia association, Eculizumab (C5 inhibitor)
+    - **Non-Immune**
+      - Microangiopathic Hemolytic Anemia (MAHA)
+        - Red cell fragmentation in small vessels
+        - **Buzzword:** Schistocytes
+        - Causes: TTP (ADAMTS13 def), HUS (Shiga toxin), DIC, HELLP, Malignant hypertension
+      - Mechanical (Prosthetic valves, March hemoglobinuria)
+      - Infections (Malaria, Clostridium perfringens)
+      - Toxins/Venoms
+      - Hypersplenism
+- **Clinical Features**
+  - Anemia symptoms (Fatigue, pallor)
+  - **Buzzwords:** Jaundice (Indirect hyperbilirubinemia), Splenomegaly, Pigment Gallstones, Leg Ulcers (SCD), Dark urine (Intravascular hemolysis)
+- **Laboratory Diagnosis**
+  - **Evidence of Increased Destruction**
+    - Increased Indirect Bilirubin
+    - Increased LDH
+    - Decreased Haptoglobin
+    - Urine Hemosiderin/Hemoglobin
+  - **Evidence of Increased Production**
+    - **Buzzword:** Reticulocytosis (Increased Reticulocyte count)
+    - Peripheral Smear (Polychromasia, Nucleated RBCs)
+  - **Identifying Cause**
+    - Peripheral Smear Morphology (**Buzzwords:** Spherocytes, Schistocytes, Sickle cells, Target cells, Heinz bodies, Bite cells, Agglutination)
+    - **Buzzwords:** DAT (Coombs Test)
+    - Osmotic Fragility Test
+    - G6PD Assay
+    - Hemoglobin Electrophoresis/HPLC
+    - Flow Cytometry (CD55/CD59)
+    - ADAMTS13 activity (TTP)
+    - Cold agglutinin titer
+- **Complications**
+  - Aplastic Crisis (**Buzzword:** Parvovirus B19)
+  - Folate Deficiency
+  - Cholelithiasis (Pigment stones)
+  - Iron Overload (from transfusions)
+  - Pulmonary Hypertension (SCD)
+  - Chronic Kidney Disease
+- **Management**
+  - Treat underlying cause
+  - **Buzzword:** Folic Acid Supplementation
+  - Transfusions (use cautiously)
+  - Splenectomy (HS, some AIHA - consider post-splenectomy vaccinations)
+  - Specific Treatments (Steroids/IVIg/Rituximab for AIHA, Eculizumab for PNH, Plasmapheresis for TTP)
+
+---
+**INICET Buzzwords:** 
+  - DAT
+  - Coombs
+  - Spherocytes
+  - Schistocytes
+  - Heinz Bodies
+  - Bite Cells
+  - Osmotic
+  - Fragility
+  - G6PD Assay
+  - CD55
+  - CD59
+  - Eculizumab
+  - Splenectomy
+  - Parvovirus B19
+  - Aplastic Crisis
+  - Indirect Bilirubin
+  - LDH
+  - Haptoglobin
+  - Reticulocytosis
+  - Flow Cytometry
+  - Warm AIHA
+  - Cold AIHA
+  - PNH
+  - HS
+  - G6PD Deficiency
+  - MAHA

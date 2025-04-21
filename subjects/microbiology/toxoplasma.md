@@ -1,0 +1,92 @@
+
+---
+title: Toxoplasmosis (INICET Cheat Sheet)
+markmap:
+  colorFreezeLevel: 6
+---
+
+## Toxoplasmosis
+- ### Organism & Life Cycle
+  - Obligate intracellular parasite
+  - Toxoplasma gondii
+  - **Definitive Host:** Cats (sexual cycle, oocyst excretion)
+  - **Intermediate Hosts:** Humans, other mammals, birds (asexual cycle, tissue cysts)
+  - **Infective Forms:**
+    - Oocysts (cat feces, contaminated food/water)
+    - Tissue Cysts (undercooked meat)
+    - Tachyzoites (active infection, transplacental)
+- ### Transmission
+  - Ingestion (Oocysts, Tissue cysts)
+  - Congenital (Transplacental - Tachyzoites)
+  - Organ Transplant
+  - Blood Transfusion
+- ### Clinical Manifestations
+  - #### Immunocompetent
+    - Often Asymptomatic
+    - Lymphadenopathy (cervical)
+    - Ocular (Retinochoroiditis)
+    - Flu-like symptoms
+  - #### Immunocompromised
+    - **CNS Toxoplasmosis** (Most common)
+      - Ring-enhancing lesions (multiple)
+      - Predilection for Basal Ganglia
+      - Headache, Fever, Focal Neurological Deficits
+      - Encephalitis, Seizures
+    - Disseminated Disease
+    - Pneumonitis
+    - Myocarditis
+  - #### Congenital Toxoplasmosis
+    - Severity depends on trimester of infection (Early = more severe, Late = more likely)
+    - **Sabin-Feldman Syndrome**
+    - **Classic Triad:**
+      - Hydrocephalus
+      - Chorioretinitis
+      - Intracranial Calcifications (often periventricular)
+    - Other manifestations: Microcephaly, Seizures, Deafness, Developmental delay, Anemia, Thrombocytopenia, Jaundice
+- ### Diagnosis
+  - #### Serology
+    - IgM (Acute infection)
+    - IgG (Past/Chronic infection)
+    - **Avidity Test** (Differentiate acute vs chronic infection - low avidity suggests recent infection)
+    - Sabin-Feldman Dye Test (Historical gold standard, requires live parasite)
+    - ELISA, IFA, etc.
+  - #### PCR
+    - CSF (CNS disease)
+    - Amniotic Fluid (Congenital)
+    - Blood, Biopsy
+  - #### Imaging
+    - CT/MRI Brain (CNS lesions - ring-enhancing)
+    - Ultrasound (Congenital - hydrocephalus, calcifications)
+  - #### Histopathology
+    - Biopsy (Brain, Lymph node)
+    - Tissue cysts, Tachyzoites
+- ### Treatment
+  - #### Immunocompetent
+    - Usually not required unless severe/prolonged symptoms or ocular disease.
+  - #### Immunocompromised (CNS Toxoplasmosis)
+    - **First line:** Pyrimethamine + Sulfadiazine + Folinic Acid (Leucovorin)
+    - Alternatives: Clindamycin + Pyrimethamine + Folinic Acid, TMP-SMX (Bactrim)
+  - #### Congenital Toxoplasmosis
+    - Treatment regimens vary by age/severity (often Pyrimethamine + Sulfadiazine + Folinic Acid, sometimes with steroids)
+  - #### Prophylaxis
+    - **Indications:** HIV with CD4 < 100 cells/µL + Toxoplasma IgG positive
+    - **First line:** TMP-SMX (Bactrim)
+    - Alternatives: Pyrimethamine + Sulfadiazine + Folinic Acid, Dapsone + Pyrimethamine + Folinic Acid, Atovaquone
+- ### Prevention
+  - Avoid undercooked meat
+  - Avoid contaminated soil/water
+  - Pregnant women: Avoid handling cat litter, wash hands after gardening
+- ### INICET Buzz Words
+  - Obligate Intracellular Parasite
+  - Cat (Definitive host)
+  - Oocyst, Tissue Cyst, Tachyzoite
+  - Congenital Triad (Hydrocephalus, Chorioretinitis, Calcifications)
+  - Sabin-Feldman Syndrome
+  - CNS Ring-enhancing lesions (multiple)
+  - Basal Ganglia
+  - HIV (CD4 < 100)
+  - Pyrimethamine + Sulfadiazine
+  - Folinic Acid (Leucovorin)
+  - TMP-SMX (Bactrim) Prophylaxis
+  - Serology (IgM, IgG, Avidity)
+

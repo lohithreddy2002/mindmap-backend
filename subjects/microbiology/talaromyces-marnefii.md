@@ -1,0 +1,75 @@
+
+---
+markmap:
+  colorFreezeLevel: 3
+---
+
+## Talaromyces marnefii
+
+- **General**
+  - Dimorphic fungus
+  - Formerly *Penicillium marneffei*
+  - Endemic in Southeast Asia, Southern China, Northeast India
+  - Associated with bamboo rats (*Rhizomys sinensis*)
+- **Morphology**
+  - **Mold form (25°C)**
+    - Aerial hyphae
+    - Conidiophores with verticils of metulae and phialides
+    - Oval conidia
+    - Diffusible red pigment in culture
+  - **Yeast form (37°C)**
+    - Intracellular within macrophages/histiocytes
+    - Oval to elongated cells (2-6 µm)
+    - Characteristic transverse septation ("bamboo shoot", "sausage shape")
+- **Epidemiology & Risk Factors**
+  - Acquired via inhalation of conidia
+  - Most common systemic mycosis in HIV in endemic areas
+  - High risk: Immunosuppression, especially HIV with CD4 < 100 cells/µL
+  - Other risks: Organ transplant, prolonged corticosteroid use, TNF-alpha inhibitors
+- **Clinical Presentation**
+  - Disseminated disease most common in immunocompromised
+  - **Systemic:** Fever, weight loss, fatigue, malaise
+  - **Skin:** Most characteristic - multiple papules/nodules, often umbilicated (mimicking molluscum contagiosum), can be widely distributed
+  - **Hematologic:** Anemia, thrombocytopenia, pancytopenia
+  - **Reticuloendothelial:** Hepatosplenomegaly, lymphadenopathy
+  - **Pulmonary:** Cough, dyspnea, infiltrates
+  - **GI:** Diarrhea, abdominal pain
+  - **Other:** Joint pain, bone lesions, CNS involvement (less common)
+- **Diagnosis**
+  - **Microscopy:**
+    - Giemsa/Wright stain of peripheral blood/bone marrow/skin biopsy/lymph node aspirate
+    - H&E stain of tissue biopsy
+    - Show intracellular yeasts with transverse septation
+  - **Culture:**
+    - Gold standard
+    - Samples: Blood, bone marrow, skin biopsy, lymph node, respiratory secretions
+    - Grows faster than *Histoplasma* (typically 3-7 days)
+    - Identify by characteristic mold morphology (red pigment) and yeast form conversion
+  - **Histopathology:**
+    - Intracellular yeasts in macrophages
+    - Granulomatous or suppurative inflammation
+  - **Molecular:** PCR (increasingly used)
+  - **Antigen Detection:** Galactomannan (less sensitive than for *Aspergillus*), specific antigen assays under development
+- **Treatment**
+  - **Induction:**
+    - Severe/disseminated: Amphotericin B (preferably lipid formulation) IV for 2 weeks
+    - Mild/moderate: Itraconazole oral for 2 weeks
+  - **Consolidation/Maintenance:**
+    - Itraconazole oral for 10-12 months
+  - **Secondary Prophylaxis:**
+    - Itraconazole oral, especially in HIV until immune reconstitution (CD4 > 100 cells/µL for > 6 months)
+  - **IRIS (Immune Reconstitution Inflammatory Syndrome):** Can occur in HIV patients after starting ART; manage with steroids in severe cases.
+- **INICET Buzzwords**
+  - Southeast Asia
+  - HIV
+  - CD4 < 100
+  - Bamboo Rat
+  - Umbilicated Skin Lesions
+  - Dimorphic Fungus
+  - Intracellular Yeast
+  - Transverse Septation
+  - Bamboo Shoot Appearance
+  - Red Pigment (Mold form)
+  - Amphotericin B
+  - Itraconazole
+  - IRIS

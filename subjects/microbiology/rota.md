@@ -1,0 +1,68 @@
+
+---
+markmap:
+  colorFreezeLevel: 6
+---
+
+## Rotavirus
+
+- **Microbiology**
+  - Family Reoviridae
+  - **dsRNA genome** (11 segments)
+  - Non-enveloped virus
+  - Icosahedral capsid (Triple-layered)
+    - VP7 (G protein)
+    - VP4 (P protein)
+    - VP6 (Inner capsid, group specific - Group A most common)
+- **Epidemiology**
+  - **Fecal-oral transmission**
+  - Most common cause of severe dehydrating diarrhea in **young children** (6-24 months)
+  - **Worldwide distribution**
+  - **Seasonal** (winter in temperate climates)
+- **Pathogenesis**
+  - Infects enterocytes in small intestine villi
+  - **NSP4** (Viral enterotoxin) - increases intracellular calcium, causes Cl- secretion
+  - Villus atrophy & damage
+  - Impaired carbohydrate absorption (osmotic diarrhea)
+  - Increased fluid and electrolyte secretion
+- **Clinical Features**
+  - Incubation period: ~2 days
+  - Prominent **vomiting** (often precedes diarrhea)
+  - **Watery diarrhea** (non-bloody)
+  - Fever
+  - Abdominal pain
+  - **Dehydration** (key complication)
+  - More severe in first infections
+- **Diagnosis**
+  - Clinical suspicion
+  - **Rapid stool antigen detection** (ELISA, Latex agglutination) - most common
+  - Electron microscopy (historical)
+  - PCR (research/specific cases)
+- **Treatment**
+  - **Supportive care** is cornerstone
+  - **Oral Rehydration Therapy (ORT)**
+  - IV fluids for severe dehydration/shock
+  - **Zinc supplementation** (reduces duration/severity)
+  - NO antibiotics
+  - NO anti-motility agents
+- **Prevention**
+  - **Vaccination** - highly effective
+    - **Live attenuated oral vaccines**
+    - Types:
+      - Monovalent (RV1 - G1P[8]) - 2 doses
+      - Pentavalent (RV5 - G1, G2, G3, G4, P[8]) - 3 doses
+    - Schedule: Start early (6-12 weeks), complete by 8 months of age.
+    - Benefits: Significant reduction in severe disease, hospitalizations, deaths.
+    - Side Effects: Mild fever, vomiting, diarrhea. **Intussusception** (rare, risk window related, lower with current strains & schedules).
+  - Hygiene (less effective due to high viral load)
+- **INICET Buzzwords**
+  - **dsRNA**
+  - **Segmented genome**
+  - **NSP4**
+  - **Fecal-oral**
+  - **Young children**
+  - **Severe dehydrating diarrhea**
+  - **ORT**
+  - **Vaccine**
+  - **Intussusception**
+  - **VP4, VP7, VP6**

@@ -1,0 +1,89 @@
+
+---
+title: Aspergillosis - INICET High Yield
+markmap:
+  colorFreezeLevel: 6
+---
+
+## Aspergillosis
+- ### Types
+  - Allergic Bronchopulmonary Aspergillosis (ABPA)
+    - Asthma/CF patients
+    - Eosinophilia
+    - High IgE
+    - Central bronchiectasis
+    - Bronchial plugging
+    - Treatment: Steroids, Itraconazole
+  - Aspergilloma
+    - Fungus ball in pre-existing cavity (TB, Sarcoidosis)
+    - Hemoptysis is common
+    - Radiology: Monod's sign (Crescent sign on supine Xray, air around ball)
+    - Treatment: Observation, Antifungals (maybe), Surgery for hemoptysis
+  - Chronic Pulmonary Aspergillosis (CPA)
+    - Subacute/chronic cavitary disease
+    - Fibrosing CPA
+    - Simple Aspergilloma
+    - Often in mild immunocompromise or prior lung disease
+    - Treatment: Long-term Azoles (Itraconazole, Voriconazole, Isavuconazole)
+  - Invasive Aspergillosis (IA)
+    - Severely immunocompromised hosts (Neutropenia, HSCT, Solid Organ Transplant, high-dose steroids)
+    - Rapidly progressive
+    - Angioinvasive
+    - High mortality
+    - Can disseminate (CNS, Skin, etc.)
+    - Treatment: Voriconazole (First-line), Isavuconazole, Amphotericin B
+  - Cutaneous Aspergillosis
+    - Primary (direct inoculation)
+    - Secondary (dissemination)
+  - CNS Aspergillosis
+    - Abscesses
+    - Infarcts (angioinvasive)
+- ### Risk Factors (for IA)
+  - Prolonged Neutropenia
+  - Hematopoietic Stem Cell Transplant (especially GVHD)
+  - Solid Organ Transplant (Lung > Other)
+  - High-dose Corticosteroids
+  - Immunosuppressive therapy (TNF-alpha inhibitors)
+  - Chronic Granulomatous Disease
+  - Viral infections (CMV, Influenza)
+- ### Diagnosis
+  - **Microscopy:** Septate hyphae with 45-degree branching
+  - **Culture:** Sabouraud agar (Mold growth)
+  - **Imaging:**
+    - **IA:** Halo sign (nodule with surrounding ground glass opacity - early), Crescent sign (air around nodule/cavity - later)
+    - Aspergilloma: Fungus ball in cavity (Monod's sign/Crescent sign)
+    - ABPA: Central bronchiectasis, mucous plugging, consolidation
+  - **Biomarkers:**
+    - Galactomannan (GM): Serum, BAL (high sensitivity/specificity in neutropenia)
+    - Beta-D-glucan (BDG): Less specific (also positive in Candida, Pneumocystis)
+  - **Serology:**
+    - Aspergillus Antibodies (IgG): Useful for CPA, Aspergilloma
+    - Aspergillus IgE, Precipitating Antibodies: Useful for ABPA
+  - **PCR:** Increasing use, especially for BAL
+  - Biopsy/Histopathology (Gold standard for IA)
+- ### Treatment
+  - **IA:**
+    - **First-line:** Voriconazole
+    - Alternatives: Isavuconazole, Liposomal Amphotericin B
+    - salvage: Posaconazole, Echinocandins (Caspofungin) in combination
+  - **CPA:** Azoles (Itraconazole, Voriconazole, Isavuconazole) - long term
+  - **Aspergilloma:** Observation, Surgery (for hemoptysis), ± Antifungals (Voriconazole, Itraconazole)
+  - **ABPA:** Oral Corticosteroids, Itraconazole, Omalizumab (anti-IgE)
+  - **Prophylaxis (in high-risk IA):** Posaconazole, Isavuconazole
+- ### High Yield Buzzwords (INICET context)
+  - Voriconazole
+  - Galactomannan
+  - Halo sign
+  - Crescent sign / Monod's sign
+  - ABPA
+  - Central Bronchiectasis
+  - Eosinophilia
+  - High IgE / Precipitating Antibodies
+  - Aspergilloma
+  - Hemoptysis
+  - Neutropenia
+  - Angioinvasive
+  - Isavuconazole
+  - Amphotericin B
+  - Septate hyphae 45 degree branching
+  - Farmer's Lung (note: hypersensitivity pneumonitis, not true Aspergillosis, but related to mold exposure)

@@ -1,0 +1,96 @@
+---
+title: Pseudomonas (INICET Cheat Sheet)
+markmap:
+  colorFreezeLevel: 6
+---
+
+## Pseudomonas Aeruginosa - High Yield
+- ### Characteristics
+  - **Gram-Negative Rod**
+  - **Strict Aerobe**
+  - **Motile** (Polar flagella)
+  - **Oxidase Positive**
+  - **Non-fermenter**
+  - **Catalase Positive**
+  - **Produces Pigments**
+    - Pyocyanin (Blue-green) - Often mentioned
+    - Pyoverdin (Yellow-green fluorescent)
+    - Pyorubin (Reddish)
+    - Pyomelanin (Brownish)
+  - **Grows at 42°C**
+  - **Sweet, Grape-like odor** or **Tortilla-like odor**
+  - **Forms Biofilms**
+- ### Virulence Factors
+  - **Exotoxin A** (ADP-ribosylates EF-2, inhibits protein synthesis) - **Key Buzzword**
+  - **Elastase** (Tissue damage)
+  - **Phospholipase C** (Tissue damage, hemolysis)
+  - **Alginate** (Forms biofilm, mucoid strain in CF) - **Key Buzzword**
+  - **Pili/Fimbriae** (Adherence)
+  - **Type III Secretion System** (Injects toxins into host cells)
+- ### Risk Factors
+  - **Hospital Acquired Infections** (Nosocomial) - **Key Buzzword**
+  - **Burns** - **Key Buzzword**
+  - **Cystic Fibrosis (CF)** - **Key Buzzword** (Chronic lung infections, mucoid strains)
+  - **Immunocompromise** (Neutropenia, HIV)
+  - **Indwelling Catheters** (Urinary, IV)
+  - **Ventilator-Associated Pneumonia (VAP)** - **Key Buzzword**
+  - **Contact Lens Use** (Keratitis) - **Key Buzzword**
+  - **Otitis Externa** ("Swimmer's Ear") - **Key Buzzword**
+  - **Diabetic Foot Ulcers**
+- ### Clinical Manifestations
+  - **Pneumonia** (VAP, CF)
+  - **UTI** (Catheter-associated)
+  - **Skin/Soft Tissue Infections** (Burns, ulcers, ecthyma gangrenosum) - **Key Buzzword**
+  - **Bacteremia/Sepsis** (High mortality in immunocompromised)
+  - **Osteomyelitis** (Puncture wounds through shoes)
+  - **Endocarditis** (IV drug users)
+  - **Eye Infections** (Keratitis from contacts)
+  - **Otitis Externa** ("Swimmer's Ear", Malignant otitis externa in diabetics) - **Key Buzzword**
+- ### Diagnosis
+  - **Culture** (Blood, sputum, urine, wound, etc.)
+  - **Characteristic Pigment production** on agar (e.g., Cetrimide agar)
+  - **Oxidase test** (Positive)
+- ### Treatment
+  - **Often Multidrug Resistant** - **Key Buzzword**
+  - **Combination therapy** often used, especially for severe infections (β-lactam + Aminoglycoside)
+  - **Anti-pseudomonal Penicillins** (Piperacillin/Tazobactam, Ticarcillin/Clavulanate)
+  - **Cephalosporins** (Ceftazidime, Cefepime)
+  - **Carbapenems** (Imipenem, Meropenem, Doripenem - note Ertapenem is *not* anti-pseudomonal) - **Key Buzzword**
+  - **Monobactams** (Aztreonam)
+  - **Aminoglycosides** (Gentamicin, Tobramycin, Amikacin) - **Key Buzzword**
+  - **Fluoroquinolones** (Ciprofloxacin, Levofloxacin) - **Key Buzzword**
+  - **Polymyxins** (Colistin/Polymyxin E, Polymyxin B) - For MDR strains - **Key Buzzword**
+- ### Resistance Mechanisms
+  - **Efflux Pumps**
+  - **Enzymatic Inactivation** (β-lactamases, Aminoglycoside modifying enzymes)
+  - **Target Modification** (e.g., gyrase/topoisomerase for fluoroquinolones)
+  - **Porin Channel Alterations**
+- ### Other Pseudomonas Species
+  - P. fluorescens, P. putida (Less pathogenic, environmental)
+  - P. stutzeri, P. mendocina (Less common infections)
+
+## INICET Buzzwords
+- Pseudomonas Aeruginosa
+- Hospital Acquired
+- Ventilator-Associated Pneumonia (VAP)
+- Burns
+- Cystic Fibrosis (CF)
+- Mucoid Strain
+- Alginate
+- Exotoxin A
+- Ecthyma Gangrenosum
+- Swimmer's Ear (Otitis Externa)
+- Contact Lens Keratitis
+- Puncture Wound Osteomyelitis
+- Oxidase Positive
+- Non-fermenter
+- Pyocyanin / Pyoverdin
+- Grape-like odor
+- Multidrug Resistance (MDR)
+- Anti-pseudomonal Penicillins (Piperacillin/Tazo)
+- Ceftazidime / Cefepime
+- Carbapenems (except Ertapenem)
+- Aminoglycosides (Gentamicin, Tobramycin)
+- Fluoroquinolones (Ciprofloxacin)
+- Colistin / Polymyxins
+

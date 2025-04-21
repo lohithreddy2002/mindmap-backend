@@ -1,0 +1,108 @@
+
+---
+title: Opioids & Withdrawal (INICET Cheatsheet)
+markmap:
+  colorFreezeLevel: 6
+---
+
+## Opioids & Withdrawal
+- ## Mechanism
+  - Receptors
+    - Mu (μ) - Analgesia (Supraspinal, Spinal), Respiratory Depression, Euphoria, Physical Dependence, Miosis, ↓GI Motility
+    - Kappa (κ) - Analgesia (Spinal), Sedation, Dysphoria, Miosis
+    - Delta (δ) - Analgesia (Spinal), Antidepressant effects
+  - Action
+    - Gi/Go Protein Coupled Receptors
+    - Pre-synaptic: ↓ Ca++ influx -> ↓ Neurotransmitter release
+    - Post-synaptic: ↑ K+ efflux -> Hyperpolarization -> ↓ Neuronal Excitability
+- ## Classification
+  - Agonists
+    - Full Agonists: Morphine, Fentanyl, Codeine, Oxycodone, Hydrocodone, Meperidine, Methadone, Heroin
+    - Partial Agonists: Buprenorphine
+  - Mixed Agonist/Antagonists
+    - Nalbuphine (κ agonist, μ antagonist)
+    - Pentazocine (κ agonist, weak μ partial agonist/antagonist)
+  - Antagonists
+    - Naloxone (Pure antagonist, short duration)
+    - Naltrexone (Pure antagonist, long duration, oral/injectable)
+- ## Pharmacokinetics
+  - Metabolism: Primarily Hepatic (CYP enzymes, Glucuronidation)
+    - Morphine -> Morphine-6-Glucuronide (M6G - Active, potent), Morphine-3-Glucuronide (M3G - Neuroexcitatory)
+    - Codeine -> Morphine (CYP2D6 - Polymorphism)
+    - Meperidine -> Normeperidine (Neurotoxic metabolite - Seizures)
+    - Fentanyl: CYP3A4
+    - Methadone: Long half-life (Variable, accumulation), CYP3A4
+- ## Pharmacological Effects
+  - CNS
+    - Analgesia
+    - Euphoria/Dysphoria
+    - Sedation
+    - Miosis (Pinpoint Pupils) - Except Meperidine (mydriasis)
+    - Cough Suppression
+    - Nausea/Vomiting (CTZ stimulation)
+  - Respiratory System
+    - Respiratory Depression (Dose-dependent, most serious ADR) - ↓ Sensitivity of respiratory center to CO2
+  - Cardiovascular System
+    - Orthostatic Hypotension (Histamine release, Vasodilation)
+    - Bradycardia
+  - Gastrointestinal System
+    - Constipation (Increased tone, ↓ motility) - NO TOLERANCE develops
+    - Biliary Spasm
+  - Other
+    - Pruritus (Histamine release)
+    - Urinary Retention
+    - Endocrine: Suppress GnRH, LH, FSH -> Hypogonadism (Chronic use)
+- ## Key Drugs & Features
+  - **Morphine:** Prototype, M6G active metabolite, histamine release, renal excretion of active metabolites (Caution in renal failure).
+  - **Fentanyl:** High potency, short duration, Transdermal patch (Chronic pain), IV (Anesthesia).
+  - **Meperidine (Pethidine):** Shorter duration, Muscarinic effects (Mydriasis, Tachycardia), Neurotoxicity (Normeperidine), Serotonin Syndrome risk. Avoid in renal failure, elderly, concurrent MAOIs.
+  - **Methadone:** Long half-life, Used for chronic pain & Opioid Dependence Treatment (ODT), NMDA antagonist activity, QT prolongation risk.
+  - **Buprenorphine:** Partial μ agonist, κ antagonist. Ceiling effect for respiratory depression. Used for pain & ODT. Can precipitate withdrawal in full agonist users.
+  - **Tramadol:** Weak μ agonist, Inhibits NE & 5-HT reuptake. Seizure risk (lower seizure threshold), Serotonin Syndrome.
+  - **Naloxone:** Pure opioid antagonist, Reverses opioid effects rapidly. Short duration (repeat dosing often needed in overdose).
+  - **Naltrexone:** Pure opioid antagonist, Long duration. Used for ODT (maintains opioid-free state) & Alcohol Dependence.
+- ## Toxicity (Overdose)
+  - **Classic Triad:**
+    1.  Coma
+    2.  Miosis (Pinpoint pupils - except Meperidine)
+    3.  Respiratory Depression
+  - Management:
+    - Airway support & Ventilation
+    - Naloxone administration (IV, IM, IN) - Titrate to reverse respiratory depression, not necessarily wakefulness. Monitor closely for re-narcotization.
+- ## Withdrawal Syndrome
+  - Symptoms: NOT LIFE THREATENING (vs. Alcohol/Benzodiazepine withdrawal)
+    - Autonomic Hyperactivity & CNS Excitation
+    - Early (6-12 hrs, Peak 36-72 hrs): Yawning, Lacrimation, Rhinorrhea, Sweating, Restlessness, Anxiety, Muscle Aches.
+    - Late (Peak continues, subside over 5-10 days): Piloerection (Goosebumps), Abdominal Cramps, Diarrhea, Nausea/Vomiting, Mydriasis, Tachycardia, Hypertension, Insomnia, Anorexia, Muscle Spasms.
+  - Severity: Depends on half-life of opioid (shorter half-life -> faster, more intense; longer half-life -> slower onset, protracted, less intense).
+- ## Management (Withdrawal & Dependence)
+  - Withdrawal Symptom Management:
+    - Clonidine (Alpha-2 agonist) - Reduces autonomic symptoms (BP, HR, sweating, diarrhea, anxiety).
+    - NSAIDs/Acetaminophen (Muscle aches)
+    - Antidiarrheals (Loperamide)
+    - Antiemetics
+  - Detoxification (Medically Supervised Withdrawal):
+    - Gradual Taper of Methadone or Buprenorphine
+  - Maintenance Treatment (Opioid Dependence Treatment - ODT/MAT):
+    - Methadone (Full agonist, prevents withdrawal, reduces craving, blocked illicit opioid effects) - Regulated clinic setting.
+    - Buprenorphine (Partial agonist, safer in overdose, less sedation than methadone, office-based treatment possible) - Often combined with Naloxone (Suboxone) to prevent injection/abuse.
+    - Naltrexone (Antagonist, blocks opioid effects, requires full detoxification first, relapse prevention) - Oral or Long-acting injectable (Vivitrol).
+- ## Buzzwords (INICET Focus)
+  - Miosis
+  - Respiratory Depression
+  - Constipation (No Tolerance)
+  - Morphine-6-Glucuronide (M6G)
+  - Normeperidine (Neurotoxicity, Seizures)
+  - Serotonin Syndrome (Meperidine, Tramadol)
+  - Methadone (QT prolongation, Long Half-life, ODT)
+  - Buprenorphine (Partial Agonist, Ceiling Effect, Precipitated Withdrawal, ODT)
+  - Naloxone (Overdose Reversal, Short Duration)
+  - Naltrexone (ODT, Abstinence Maintenance)
+  - Piloerection (Withdrawal Symptom)
+  - Clonidine (Withdrawal Symptom Management)
+  - MAT (Medication Assisted Treatment)
+  - Tolerance (Differential development)
+  - Dependence (Physical vs Psychological)
+  - Kappa Receptor (Dysphoria, Spinal Analgesia)
+  - Histamine Release (Pruritus, Hypotension)
+  - CYP2D6 (Codeine Metabolism)

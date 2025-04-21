@@ -1,0 +1,60 @@
+
+---
+markmap:
+  colorFreezeLevel: 6
+---
+
+## Malakoplakia
+- **Definition:** Chronic granulomatous inflammatory condition
+- **Etiology/Pathogenesis**
+  - Defective macrophage phagolysosomal function
+  - Inability to digest bacteria completely
+  - Accumulation of partially digested bacteria & calcium/iron
+  - Most common organism: E. coli
+  - Associated with: Immunosuppression (Transplant, HIV), Chronic diseases, Malignancy
+- **Histology**
+  - **Buzzwords:**
+    - **Michaelis-Gutmann Bodies:**
+      - Intracytoplasmic or extracellular, spherical, laminated inclusions
+      - Represent calcified bacterial remnants
+      - Stain positively with PAS, von Kossa (Calcium), Perls' Prussian Blue (Iron)
+      - Pathognomonic finding
+    - **Von Hansemann Cells:**
+      - Large foamy macrophages with abundant eosinophilic/granular cytoplasm
+      - Contain phagocytosed material and Michaelis-Gutmann bodies
+- **Clinical Presentation**
+  - Variable depending on site
+  - Often presents as mass-like lesions
+- **Common Sites**
+  - **Urinary Tract (Most Common):**
+    - Bladder (Cystitis): Often affects posterior wall, multiple plaques/nodules
+    - Kidney (Pyelonephritis): Can mimic tumor or xanthogranulomatous pyelonephritis
+    - Ureter
+  - Gastrointestinal Tract
+  - Skin/Subcutaneous Tissue
+  - Lymph Nodes
+  - CNS
+  - Bone
+  - Lungs
+- **Diagnosis**
+  - Biopsy required for definitive diagnosis
+  - Characteristic histology (Michaelis-Gutmann bodies, von Hansemann cells)
+- **Treatment**
+  - Long-term antibiotics (intracellular penetration): Fluoroquinolones, TMP-SMX
+  - Macrophage activation agents: Bethanechol (enhances cGMP levels)
+  - Ascorbic acid (lowers lysosomal pH)
+  - Surgery: For mass effect, obstruction, or refractory cases
+- **INICET Buzzwords**
+  - Michaelis-Gutmann bodies
+  - Von Hansemann cells
+  - E. coli
+  - Macrophages
+  - PAS positive
+  - Von Kossa
+  - Perls' Prussian Blue
+  - Calcium
+  - Iron
+  - Urinary Tract
+  - Bladder
+  - Immunosuppression
+  - Bethanechol

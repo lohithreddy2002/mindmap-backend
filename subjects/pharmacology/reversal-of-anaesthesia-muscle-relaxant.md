@@ -1,0 +1,73 @@
+
+---
+title: Reversal of Muscle Relaxants
+markmap:
+  colorFreezeLevel: 6
+---
+
+## Reversal of Neuromuscular Blockade (NMB)
+- Methods
+  - Spontaneous Recovery
+    - Time dependent
+    - Dose dependent
+  - Pharmacological Reversal
+    - Aims for faster, more complete recovery
+    - Essential to prevent PONDP
+- Pharmacological Agents
+  - Acetylcholinesterase Inhibitors (Indirect)
+    - Mechanism: Increase Acetylcholine (ACh) at NMJ
+    - Compete with NMB for receptors
+    - Require functional NMJ & sufficient ACh release
+    - Co-administration with Anticholinergic essential
+    - Neostigmine
+      - Most common
+      - Dose: 0.03-0.07 mg/kg (Max 5mg)
+      - Onset: 5-10 mins
+      - Duration: 30-60 mins
+      - Co-admin: Anticholinergic (Glycopyrrolate or Atropine)
+        - Glycopyrrolate: Preferred (less CNS/cardia effects, longer acting match)
+        - Atropine: Faster onset, more tachycardia, crosses BBB
+      - Side Effects: Muscarinic effects (Bradycardia, Salivation, Bronchorrhea, Miosis, Increased GI motility)
+      - Limitations: Ceiling effect, ineffective in very deep block (TOF 0), not for Succinylcholine
+    - Pyridostigmine
+      - Longer acting than Neostigmine
+      - Less common for routine reversal
+    - Edrophonium
+      - Shorter acting, faster onset than Neostigmine
+      - Less potent muscarinic effects but still needs anticholinergic
+      - Less common now
+  - Selective Relaxant Binding Agent (Direct)
+    - Sugammadex
+      - Mechanism: Encapsulation (Cyclodextrin molecule)
+      - Forms water-soluble complex, removes NMB from plasma
+      - Indications: **Rocuronium**, **Vecuronium** (Steroidal NMBs)
+      - Advantages: Rapid, predictable, complete reversal (even deep block), less side effects (no muscarinic effects), bypasses ACh system
+      - Disadvantages: Cost, **Anaphylaxis** risk, Drug Interactions (e.g., decreases efficacy of **Hormonal Contraceptives**), Renal excretion
+      - Dose: Varies with depth of block (e.g., 2 mg/kg for TOF 2+, 4 mg/kg for PTC 1-2, 16 mg/kg for immediate post-induction reversal of Roc)
+- Monitoring Neuromuscular Blockade
+  - Peripheral Nerve Stimulator
+  - Common Modes:
+    - Train-of-Four (TOF): 4 stimuli, count twitches (0-4)
+    - Post-Tetanic Count (PTC): Tetanus followed by single stimuli, count responses
+    - Double Burst Stimulation (DBS)
+  - Adequate Reversal Criterion: **TOF Ratio > 0.9** (Gold standard)
+- Clinical Signs of Adequate Reversal (Checklist)
+  - Sustained Head Lift > 5 seconds
+  - Strong Hand Grip
+  - Vital Capacity > 20 ml/kg
+  - Negative Inspiratory Force > -25 cmH2O
+  - Opens eyes wide on command
+  - Protrudes tongue
+- Complications
+  - **Postoperative Residual Neuromuscular Blockade (PONDP)**
+    - TOF Ratio < 0.9 in PACU
+    - Can lead to respiratory complications, re-intubation, increased hospital stay
+    - Management: Re-reverse if block persists (check TOF)
+  - Reversal in Special Populations (e.g., Myasthenia Gravis - caution with AChE inhibitors)
+- INICET Buzzwords
+  - **TOF Ratio > 0.9**
+  - **Sugammadex** (Rocuronium, Vecuronium, **Cyclodextrin**, **Anaphylaxis**, **Hormonal Contraceptives**)
+  - **Neostigmine** (Glycopyrrolate, Muscarinic Side Effects, Ceiling Effect)
+  - **PONDP**
+  - **Head Lift > 5s**
+  - **Pseudocholinesterase deficiency** (Prolonged Succinylcholine/Mivacurium)

@@ -1,0 +1,91 @@
+---
+title: Degenerative Disorders (INICET Cheat Sheet)
+markmap:
+  colorFreezeLevel: 6
+---
+
+## Degenerative Disorders
+- **Parkinson's Disease (PD)**
+  - Pathology: Alpha-synuclein (Lewy Bodies), Substantia Nigra
+  - Clinical Features:
+    - Motor Triad: Tremor (Resting, Pill-rolling), Rigidity (Cogwheel), Bradykinesia
+    - Postural Instability (Late)
+    - Non-Motor: Anosmia, Constipation, RBD, Depression, Cognitive Impairment
+  - Diagnosis: Clinical (UK Brain Bank Criteria), DAT scan
+  - Management:
+    - L-dopa/Carbidopa (Most effective)
+    - Dopamine Agonists (Ropinirole, Pramipexole)
+    - MAO-B Inhibitors (Selegiline, Rasagiline)
+    - COMT Inhibitors (Entacapone)
+    - Amantadine (Dyskinesia)
+    - DBS (Advanced disease)
+  - Buzzwords: Pill-rolling, Cogwheel, Masked facies, Festinant gait, On-off, Dyskinesia
+- **Atypical Parkinsonism (Parkinson-plus syndromes)**
+  - **Multiple System Atrophy (MSA)**
+    - Types: MSA-P (Parkinsonian), MSA-C (Cerebellar)
+    - Pathology: Glial Cytoplasmic Inclusions (Alpha-synuclein)
+    - Clinical: Prominent Autonomic Failure (Orthostatic Hypotension, Urinary Dysfunction), Parkinsonism (poor L-dopa response), Ataxia (MSA-C)
+    - Imaging: Hot Cross Bun sign (Pons), Putaminal atrophy (MSA-P), Cerebellar atrophy (MSA-C)
+    - Buzzwords: Autonomic failure, Hot Cross Bun, Poor L-dopa response
+  - **Progressive Supranuclear Palsy (PSP)**
+    - Pathology: Tau pathology (NFTs), Subcortical areas (Midbrain, GP, STN)
+    - Clinical: Vertical Gaze Palsy (especially downward), Early Postural Instability & Falls, Axial Rigidity, Frontal Dysfunction, Dysarthria/Dysphagia
+    - Imaging: Hummingbird sign (Midbrain atrophy), Mickey Mouse sign
+    - Buzzwords: Vertical gaze palsy, Early falls, Hummingbird, Axial rigidity
+  - **Corticobasal Degeneration (CBD)**
+    - Pathology: Tau pathology, Asymmetric Cortical & Basal Ganglia atrophy
+    - Clinical: Asymmetric Rigidity/Dystonia, Apraxia (Alien Limb Phenomenon), Cortical sensory loss, Myoclonus
+    - Buzzwords: Alien limb, Asymmetric, Apraxia, Cortical sensory loss
+- **Dementia**
+  - **Alzheimer's Disease (AD)**
+    - Pathology: Beta-amyloid Plaques, Neurofibrillary Tangles (Tau), Synaptic Loss, Hippocampal atrophy
+    - Clinical: Gradual Episodic Memory loss (early), Executive Dysfunction, Aphasia, Apraxia, Agnosia
+    - Diagnosis: Clinical criteria, Imaging (atrophy), CSF markers (↓Aβ42, ↑Tau), Amyloid PET
+    - Management: Cholinesterase Inhibitors (Donepezil, Rivastigmine, Galantamine), Memantine (NMDA antagonist)
+    - Genetics: ApoE ε4 (Risk), APP, PSEN1, PSEN2 (Early onset AD)
+    - Buzzwords: Amyloid, Tau, Hippocampus, Episodic memory, Cholinesterase inhibitors
+  - **Frontotemporal Dementia (FTD)**
+    - Types: Behavioral Variant (bvFTD), Primary Progressive Aphasia (PPA - Non-fluent, Semantic, Logopenic)
+    - Pathology: Tau, TDP-43, FUS; Frontal & Temporal lobe atrophy
+    - Clinical: Personality/Behavior change (bvFTD), Language deficits (PPA)
+    - Genetics: C9orf72 (also ALS), MAPT, GRN
+    - Buzzwords: Personality change, Apathy, Disinhibition, Aphasia
+  - **Lewy Body Dementia (LBD)**
+    - Pathology: Lewy bodies (Alpha-synuclein) in Cortex & Brainstem
+    - Clinical: Fluctuating Cognition, Recurrent Visual Hallucinations, Parkinsonism (often after dementia onset), REM Sleep Behavior Disorder (RBD)
+    - Buzzwords: Fluctuating cognition, Visual hallucinations, RBD
+- **Motor Neuron Disease (MND) / Amyotrophic Lateral Sclerosis (ALS)**
+  - Pathology: UMN & LMN degeneration, TDP-43 (most common), SOD1, C9orf72
+  - Clinical: Progressive Muscle weakness/wasting, Fasciculations, Bulbar symptoms (Dysarthria, Dysphagia), Mixed UMN (Spasticity, Hyperreflexia) & LMN (Weakness, Atrophy, Fasciculations) signs
+  - Spares: Sensation, Eye movements, Sphincters
+  - Diagnosis: Clinical + EMG/NCS
+  - Management: Riluzole, Edaravone (Slow progression)
+  - Buzzwords: UMN/LMN, Fasciculations, Bulbar, Spares sensation, Riluzole
+- **Hereditary Ataxias**
+  - **Friedreich's Ataxia (FA)**
+    - Pathology: GAA repeat expansion (FXN gene), Degeneration of Spinocerebellar tracts, Dorsal columns, DRG, Cerebellum, Heart
+    - Clinical: Gait Ataxia (early), Dysarthria, Dysphagia, Absent Lower Limb Reflexes, Upgoing Plantars, Pes Cavus, Scoliosis, Hypertrophic Cardiomyopathy (HCM), Diabetes
+    - Genetics: Autosomal Recessive
+    - Buzzwords: GAA repeat, FRATAXIN, Absent reflexes, Pes cavus, HCM, AR
+  - **Spinocerebellar Ataxias (SCAs)**
+    - Pathology: Various trinucleotide repeats (mostly CAG), Affects Cerebellum, Brainstem, Spinal Cord
+    - Clinical: Ataxia + variable other signs (Ophthalmoplegia, Pyramidal signs, Cognitive) depending on type
+    - Genetics: Autosomal Dominant, Numerous types (SCA1, 2, 3, 6, 7...), CAG repeats show Anticipation
+    - Buzzwords: Trinucleotide repeat, Anticipation, AD
+- **Huntington's Disease (HD)**
+  - Pathology: CAG repeat expansion (HTT gene), Caudate & Putamen (Striatum) atrophy, Cortical atrophy
+  - Clinical: Chorea, Behavioral/Psychiatric changes, Cognitive decline (Dementia), Motor Impersistence
+  - Genetics: CAG repeat (Chromosome 4, HTT gene), Autosomal Dominant
+  - Diagnosis: Clinical + Genetic testing
+  - Management: Tetrabenazine (Chorea)
+  - Buzzwords: Chorea, CAG repeat, Caudate atrophy, AD, Chromosome 4, Tetrabenazine
+
+- **INICET Buzzwords Checklist:**
+  - Proteinopathies: Alpha-synuclein, Tau, Beta-amyloid, TDP-43, FUS
+  - Repeats: CAG, GAA
+  - Imaging Signs: Hummingbird, Hot Cross Bun, Caudate Atrophy, Putaminal Atrophy
+  - Clinical Signs: Alien Limb, Vertical Gaze Palsy, Early Falls, Autonomic Failure, UMN/LMN, Fasciculations, Pes Cavus, Chorea
+  - Genetics: AD, AR, Anticipation
+  - Medications: L-dopa, Riluzole, Tetrabenazine, Cholinesterase Inhibitors, Memantine
+  - Pathology Sites: Substantia Nigra, Striatum, Hippocampus, Frontal/Temporal Lobes, Cerebellum, Spinal Cord
+
