@@ -8,7 +8,6 @@ const cors = require('cors');
 const morgan = require('morgan');
 const path = require('path');
 const mongoose = require('mongoose');
-const fs = require('fs');
 const subjectsRoutes = require('./routes/subjectsRoutes');
 const adminRoutes = require('./routes/adminRoutes');
 require('dotenv').config();
@@ -16,26 +15,13 @@ require('dotenv').config();
 const app = express();
 const PORT = process.env.PORT || 3002;
 
-// Configure logging
-const logDirectory = path.join(__dirname, '../logs');
-// Ensure log directory exists
-if (!fs.existsSync(logDirectory)) {
-  fs.mkdirSync(logDirectory, { recursive: true });
-}
-
-// Create a write stream for access logs
-const accessLogStream = fs.createWriteStream(
-  path.join(logDirectory, 'access.log'), 
-  { flags: 'a' }
-);
-
 // Configure Morgan logging
 // Development: Console colored logs
 if (process.env.NODE_ENV === 'development') {
   app.use(morgan('dev'));
+} else {
+  app.use(morgan('combined'));
 }
-// Always log to file in combined format
-app.use(morgan('combined', { stream: accessLogStream }));
 
 // Custom request logger
 app.use((req, res, next) => {
@@ -71,7 +57,10 @@ mongoose.connect(process.env.MONGODB_URI, {
 })
 .catch(err => {
   console.error(`[${new Date().toISOString()}] MongoDB connection error:`, err);
-  process.exit(1);
+  // Don't exit in serverless environment
+  if (process.env.VERCEL !== '1') {
+    process.exit(1);
+  }
 });
 
 // CORS Configuration
@@ -110,7 +99,8 @@ app.get('/api/status', (req, res) => {
     status: 'API is running',
     timestamp: new Date(),
     environment: process.env.NODE_ENV || 'development',
-    mongodbConnected: mongoose.connection.readyState === 1
+    mongodbConnected: mongoose.connection.readyState === 1,
+    isServerless: process.env.VERCEL === '1'
   });
 });
 
