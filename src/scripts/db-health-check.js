@@ -15,26 +15,41 @@ const Subject = require('../models/Subject');
 const Topic = require('../models/Topic');
 
 // Configure logging - use /tmp for Vercel compatibility
-const isVercel = process.env.VERCEL === '1';
-const logDirectory = isVercel 
-  ? '/tmp/logs' 
-  : path.join(__dirname, '../../logs');
+const isServerlessEnv = process.env.VERCEL === '1' || !fs.existsSync(path.join(__dirname, '../../logs'));
+let logDirectory = '/tmp';  // Default to /tmp for serverless
 
-// Ensure log directory exists
-if (!fs.existsSync(logDirectory)) {
-  fs.mkdirSync(logDirectory, { recursive: true });
+// Only attempt to create logs directory if not in serverless
+if (!isServerlessEnv) {
+  try {
+    logDirectory = path.join(__dirname, '../../logs');
+    if (!fs.existsSync(logDirectory)) {
+      fs.mkdirSync(logDirectory, { recursive: true });
+    }
+  } catch (err) {
+    console.warn(`Warning: Could not create logs directory. Using /tmp: ${err.message}`);
+    logDirectory = '/tmp';
+  }
 }
 
 // Create a log file for the check result
-const logFile = path.join(logDirectory, `db-health-check-${new Date().toISOString().replace(/:/g, '-')}.log`);
-const logStream = fs.createWriteStream(logFile, { flags: 'a' });
+let logStream;
+try {
+  const timestamp = new Date().toISOString().replace(/:/g, '-');
+  const logFile = path.join(logDirectory, `db-health-check-${timestamp}.log`);
+  logStream = fs.createWriteStream(logFile, { flags: 'a' });
+  console.log(`Log file created at: ${logFile}`);
+} catch (err) {
+  console.warn(`Unable to create log file: ${err.message}. Logs will only go to console.`);
+}
 
 // Helper function to log to console and file
 function log(message) {
   const timestamp = new Date().toISOString();
   const formattedMessage = `[${timestamp}] ${message}`;
   console.log(formattedMessage);
-  logStream.write(formattedMessage + '\n');
+  if (logStream) {
+    logStream.write(formattedMessage + '\n');
+  }
 }
 
 async function checkDatabaseHealth() {
@@ -121,8 +136,10 @@ async function checkDatabaseHealth() {
   } finally {
     await mongoose.connection.close();
     log('MongoDB connection closed');
-    logStream.end();
-    log(`Log file written to: ${logFile}`);
+    if (logStream) {
+      logStream.end();
+      log(`Log file written to: ${logFile}`);
+    }
   }
 }
 
