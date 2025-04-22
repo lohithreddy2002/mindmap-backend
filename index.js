@@ -8,12 +8,46 @@ const cors = require('cors');
 const morgan = require('morgan');
 const path = require('path');
 const mongoose = require('mongoose');
+const fs = require('fs');
 const subjectsRoutes = require('./routes/subjectsRoutes');
 const adminRoutes = require('./routes/adminRoutes');
 require('dotenv').config();
 
 const app = express();
 const PORT = process.env.PORT || 3002;
+
+// Configure logging - use /tmp for Vercel compatibility
+const isVercel = process.env.VERCEL === '1';
+const logDirectory = isVercel 
+  ? '/tmp/logs' 
+  : path.join(__dirname, '../logs');
+
+// Ensure log directory exists
+if (!fs.existsSync(logDirectory)) {
+  fs.mkdirSync(logDirectory, { recursive: true });
+}
+
+// Create a write stream for access logs
+let accessLogStream;
+try {
+  accessLogStream = fs.createWriteStream(
+    path.join(logDirectory, 'access.log'), 
+    { flags: 'a' }
+  );
+} catch (err) {
+  console.warn(`Unable to create log file: ${err.message}. Logs will only go to console.`);
+}
+
+// Configure Morgan logging
+// Development: Console colored logs
+if (process.env.NODE_ENV === 'development') {
+  app.use(morgan('dev'));
+}
+
+// Only log to file if we successfully created the stream
+if (accessLogStream) {
+  app.use(morgan('combined', { stream: accessLogStream }));
+}
 
 // Connect to MongoDB
 mongoose.connect(process.env.MONGODB_URI, {
@@ -39,7 +73,6 @@ app.use(cors({
 // Other middleware
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-app.use(morgan('dev'));
 
 // Static files - could be used to serve uploaded markdown files later
 app.use('/static', express.static(path.join(__dirname, '../public')));

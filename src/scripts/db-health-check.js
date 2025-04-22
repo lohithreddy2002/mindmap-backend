@@ -14,8 +14,12 @@ const path = require('path');
 const Subject = require('../models/Subject');
 const Topic = require('../models/Topic');
 
-// Configure logging
-const logDirectory = path.join(__dirname, '../../logs');
+// Configure logging - use /tmp for Vercel compatibility
+const isVercel = process.env.VERCEL === '1';
+const logDirectory = isVercel 
+  ? '/tmp/logs' 
+  : path.join(__dirname, '../../logs');
+
 // Ensure log directory exists
 if (!fs.existsSync(logDirectory)) {
   fs.mkdirSync(logDirectory, { recursive: true });
